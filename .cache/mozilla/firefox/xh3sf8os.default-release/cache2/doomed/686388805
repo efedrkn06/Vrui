@@ -15,7 +15,7 @@
     <link rel="stylesheet" href="chrome://browser/content/contentSearchUI.css" />
     <link rel="stylesheet" href="chrome://activity-stream/content/css/activity-stream.css" />
   </head>
-  <!-- Cached: Sat, 10 May 2025 10:32:08 GMT -->
+  <!-- Cached: Sat, 10 May 2025 10:42:08 GMT -->
   <body class="activity-stream">
     <div id="header-asrouter-container" role="presentation"></div>
     <div id="root">
@@ -937,7 +937,7 @@ window.__STARTUP_STATE__ = {
 						"f": 53
 					}
 				},
-				"request_id": "1e7ac58d9bb54d9aa8b0c2e5a5e06612",
+				"request_id": "a7d385aa76094d94bf4686cfc0b08308",
 				"source": "merino"
 			}
 		],
@@ -952,4 +952,5 @@ window.__STARTUP_STATE__ = {
 	}
 };
 
-USÜ¼ï           h+(H+ôwÿÿÿÿ       :about:home alt-data 1;34747,script version 20250310180126  "z
+bC:
+¨           h-€H+öÿÿÿÿ       :about:home alt-data 1;34747,script version 20250310180126  "z
