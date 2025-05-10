@@ -1,0 +1,43 @@
+$(OBJDIR)/SceneGraph/Doom3DataContextNode.o $(OBJDIR)/pic/SceneGraph/Doom3DataContextNode.o: \
+ SceneGraph/Doom3DataContextNode.cpp \
+ /home/efe/Vrui-8.0-001/SceneGraph/Doom3DataContextNode.h \
+ /home/efe/Vrui-8.0-001/Misc/Autopointer.h \
+ /home/efe/Vrui-8.0-001/IO/Directory.h \
+ /home/efe/Vrui-8.0-001/Misc/FileTests.h \
+ /home/efe/Vrui-8.0-001/Threads/RefCounted.h \
+ /home/efe/Vrui-8.0-001/Threads/Atomic.h \
+ /home/efe/Vrui-8.0-001/Threads/Config.h /home/efe/Vrui-8.0-001/IO/File.h \
+ /home/efe/Vrui-8.0-001/Misc/Endianness.h \
+ /home/efe/Vrui-8.0-001/IO/SeekableFile.h \
+ /home/efe/Vrui-8.0-001/SceneGraph/FieldTypes.h \
+ /home/efe/Vrui-8.0-001/GL/GLColor.h \
+ /home/efe/Vrui-8.0-001/GL/GLScalarLimits.h \
+ /home/efe/Vrui-8.0-001/Math/Math.h \
+ /home/efe/Vrui-8.0-001/SceneGraph/Geometry.h \
+ /home/efe/Vrui-8.0-001/SceneGraph/Node.h \
+ /home/efe/Vrui-8.0-001/SceneGraph/VRMLFile.h \
+ /home/efe/Vrui-8.0-001/Misc/StringHashFunctions.h \
+ /home/efe/Vrui-8.0-001/Misc/HashTable.h \
+ /home/efe/Vrui-8.0-001/Misc/PoolAllocator.h \
+ /home/efe/Vrui-8.0-001/Misc/StandardHashFunction.h \
+ /home/efe/Vrui-8.0-001/IO/TokenSource.h \
+ /home/efe/Vrui-8.0-001/SceneGraph/GroupNode.h \
+ /home/efe/Vrui-8.0-001/Geometry/ComponentArray.h \
+ /home/efe/Vrui-8.0-001/Geometry/Point.h \
+ /home/efe/Vrui-8.0-001/Geometry/Vector.h \
+ /home/efe/Vrui-8.0-001/SceneGraph/GraphNode.h \
+ /home/efe/Vrui-8.0-001/Misc/SizedTypes.h \
+ /home/efe/Vrui-8.0-001/SceneGraph/Internal/Doom3FileManager.h \
+ /home/efe/Vrui-8.0-001/Misc/ThrowStdErr.h \
+ /home/efe/Vrui-8.0-001/IO/ZipArchive.h \
+ /home/efe/Vrui-8.0-001/SceneGraph/Internal/Doom3NameTree.h \
+ /home/efe/Vrui-8.0-001/SceneGraph/Internal/Doom3NameTree.icpp \
+ /home/efe/Vrui-8.0-001/SceneGraph/Internal/Doom3TextureManager.h \
+ /home/efe/Vrui-8.0-001/GL/GLObject.h \
+ /home/efe/Vrui-8.0-001/Images/RGBAImage.h \
+ /home/efe/Vrui-8.0-001/Images/Image.h \
+ /home/efe/Vrui-8.0-001/Images/BaseImage.h \
+ /home/efe/Vrui-8.0-001/SceneGraph/Internal/Doom3MaterialManager.h \
+ /home/efe/Vrui-8.0-001/GL/Extensions/GLARBShaderObjects.h \
+ /home/efe/Vrui-8.0-001/GL/TLSHelper.h /home/efe/Vrui-8.0-001/GL/Config.h \
+ /home/efe/Vrui-8.0-001/GL/Extensions/GLExtension.h

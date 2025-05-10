@@ -1,0 +1,31 @@
+$(OBJDIR)/Vrui/LightsourceManager.o $(OBJDIR)/pic/Vrui/LightsourceManager.o: Vrui/LightsourceManager.cpp \
+ /home/efe/src/Vrui-8.0-002/Vrui/LightsourceManager.h \
+ /home/efe/src/Vrui-8.0-002/Vrui/Geometry.h \
+ /home/efe/src/Vrui-8.0-002/Vrui/Lightsource.h \
+ /home/efe/src/Vrui-8.0-002/GL/GLLight.h \
+ /home/efe/src/Vrui-8.0-002/GL/GLColor.h \
+ /home/efe/src/Vrui-8.0-002/GL/GLScalarLimits.h \
+ /home/efe/src/Vrui-8.0-002/Math/Math.h \
+ /home/efe/src/Vrui-8.0-002/GL/GLVector.h \
+ /home/efe/src/Vrui-8.0-002/GL/GLMatrixTemplates.h \
+ /home/efe/src/Vrui-8.0-002/GL/GLLightTemplates.h \
+ /home/efe/src/Vrui-8.0-002/GL/GLLightEnums.h \
+ /home/efe/src/Vrui-8.0-002/GL/GLLightTracker.h \
+ /home/efe/src/Vrui-8.0-002/GL/GLContextData.h \
+ /home/efe/src/Vrui-8.0-002/Misc/HashTable.h \
+ /home/efe/src/Vrui-8.0-002/Misc/PoolAllocator.h \
+ /home/efe/src/Vrui-8.0-002/Misc/StandardHashFunction.h \
+ /home/efe/src/Vrui-8.0-002/Misc/CallbackData.h \
+ /home/efe/src/Vrui-8.0-002/Misc/CallbackList.h \
+ /home/efe/src/Vrui-8.0-002/GL/TLSHelper.h \
+ /home/efe/src/Vrui-8.0-002/GL/Config.h \
+ /home/efe/src/Vrui-8.0-002/GL/GLObject.h \
+ /home/efe/src/Vrui-8.0-002/Vrui/DisplayState.h \
+ /home/efe/src/Vrui-8.0-002/Geometry/Point.h \
+ /home/efe/src/Vrui-8.0-002/Geometry/ComponentArray.h \
+ /home/efe/src/Vrui-8.0-002/Geometry/Vector.h \
+ /home/efe/src/Vrui-8.0-002/Geometry/OrthogonalTransformation.h \
+ /home/efe/src/Vrui-8.0-002/Geometry/HVector.h \
+ /home/efe/src/Vrui-8.0-002/Geometry/Rotation.h \
+ /home/efe/src/Vrui-8.0-002/Geometry/ProjectiveTransformation.h \
+ /home/efe/src/Vrui-8.0-002/Geometry/Matrix.h

@@ -1,0 +1,49 @@
+$(OBJDIR)/Vrui/VisletManager.o $(OBJDIR)/pic/Vrui/VisletManager.o: Vrui/VisletManager.cpp \
+ /home/efe/Vrui-8.0-001/Vrui/VisletManager.h \
+ /home/efe/Vrui-8.0-001/Misc/ConfigurationFile.h \
+ /home/efe/Vrui-8.0-001/Misc/ValueCoder.h \
+ /home/efe/Vrui-8.0-001/Plugins/FactoryManager.h \
+ /home/efe/Vrui-8.0-001/Misc/FileLocator.h \
+ /home/efe/Vrui-8.0-001/Plugins/FactoryManager.icpp \
+ /home/efe/Vrui-8.0-001/Misc/ThrowStdErr.h \
+ /home/efe/Vrui-8.0-001/Plugins/FunctionPointerHack.h \
+ /home/efe/Vrui-8.0-001/GLMotif/ToggleButton.h \
+ /home/efe/Vrui-8.0-001/Misc/CallbackData.h \
+ /home/efe/Vrui-8.0-001/Misc/CallbackList.h \
+ /home/efe/Vrui-8.0-001/GLMotif/VariableTracker.h \
+ /home/efe/Vrui-8.0-001/Misc/SizedTypes.h \
+ /home/efe/Vrui-8.0-001/GLMotif/DecoratedButton.h \
+ /home/efe/Vrui-8.0-001/GLMotif/Button.h \
+ /home/efe/Vrui-8.0-001/GLMotif/Label.h \
+ /home/efe/Vrui-8.0-001/GL/GLFont.h \
+ /home/efe/Vrui-8.0-001/Misc/Endianness.h \
+ /home/efe/Vrui-8.0-001/GL/GLColor.h \
+ /home/efe/Vrui-8.0-001/GL/GLScalarLimits.h \
+ /home/efe/Vrui-8.0-001/Math/Math.h \
+ /home/efe/Vrui-8.0-001/GL/GLVector.h /home/efe/Vrui-8.0-001/GL/GLBox.h \
+ /home/efe/Vrui-8.0-001/GL/GLString.h /home/efe/Vrui-8.0-001/GL/GLLabel.h \
+ /home/efe/Vrui-8.0-001/GL/TLSHelper.h /home/efe/Vrui-8.0-001/GL/Config.h \
+ /home/efe/Vrui-8.0-001/GL/GLObject.h \
+ /home/efe/Vrui-8.0-001/GLMotif/Widget.h \
+ /home/efe/Vrui-8.0-001/GLMotif/Types.h \
+ /home/efe/Vrui-8.0-001/Geometry/Point.h \
+ /home/efe/Vrui-8.0-001/Geometry/ComponentArray.h \
+ /home/efe/Vrui-8.0-001/Geometry/Vector.h \
+ /home/efe/Vrui-8.0-001/Geometry/Ray.h \
+ /home/efe/Vrui-8.0-001/Vrui/Vislet.h \
+ /home/efe/Vrui-8.0-001/Plugins/Factory.h \
+ /home/efe/Vrui-8.0-001/Misc/StandardValueCoders.h \
+ /home/efe/Vrui-8.0-001/Misc/CompoundValueCoders.h \
+ /home/efe/Vrui-8.0-001/Misc/Vector.h \
+ /home/efe/Vrui-8.0-001/Misc/ArrayIterator.h \
+ /home/efe/Vrui-8.0-001/Misc/ArrayConstIterator.h \
+ /home/efe/Vrui-8.0-001/Misc/CompoundValueCoders.icpp \
+ /home/efe/Vrui-8.0-001/GLMotif/PopupMenu.h \
+ /home/efe/Vrui-8.0-001/GLMotif/Popup.h \
+ /home/efe/Vrui-8.0-001/GLMotif/SingleChildContainer.h \
+ /home/efe/Vrui-8.0-001/GLMotif/Container.h \
+ /home/efe/Vrui-8.0-001/GLMotif/RowColumn.h \
+ /home/efe/Vrui-8.0-001/GLMotif/Alignment.h \
+ /home/efe/Vrui-8.0-001/Vrui/Vrui.h \
+ /home/efe/Vrui-8.0-001/Vrui/Geometry.h \
+ /home/efe/Vrui-8.0-001/Vrui/Internal/Config.h

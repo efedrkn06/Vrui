@@ -1,0 +1,189 @@
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/efe/.Xauthority
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting LANG=tr_TR.UTF-8
+dbus-update-activation-environment: setting GDM_LANG=tr
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting COMPIZ_CONFIG_PROFILE=mate
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/efe
+dbus-update-activation-environment: setting USER=efe
+dbus-update-activation-environment: setting DESKTOP_SESSION=mate
+dbus-update-activation-environment: setting PWD=/home/efe
+dbus-update-activation-environment: setting HOME=/home/efe
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/mate:/home/efe/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=mate
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting XDG_CURRENT_DESKTOP=MATE
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting LANGUAGE=tr
+dbus-update-activation-environment: setting GDMSESSION=mate
+dbus-update-activation-environment: setting LOGNAME=efe
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting XAUTHORITY=/home/efe/.Xauthority
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-mate:/etc/xdg
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+** Message: 22:24:59.681: couldn't access control socket: /run/user/1000/keyring/control: Böyle bir dosya ya da dizin yok
+mate-session[1023]: WARNING: Unable to find provider '' of required component 'dock'
+Pencere yöneticisi uyarısı: Log level 16: XPresent is not compatible with your current system configuration.
+
+(blueberry-tray.py:1496): Bluetooth-WARNING **: 22:25:00.856: Error setting property 'Powered' on interface org.bluez.Adapter1: GDBus.Error:org.bluez.Error.Blocked: Blocked through rfkill (g-io-error-quark, 36)
+
+(mate-power-manager:1510): Gdk-CRITICAL **: 22:25:01.009: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+
+(caja:1478): Gtk-CRITICAL **: 22:25:54.474: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(caja:1478): Gtk-CRITICAL **: 22:25:54.474: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(caja:1478): Gtk-CRITICAL **: 22:25:54.474: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(caja:1478): Gtk-CRITICAL **: 22:25:54.474: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(caja:1478): Gtk-CRITICAL **: 22:25:54.474: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(caja:1478): Gtk-CRITICAL **: 22:25:54.474: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+Pencere yöneticisi uyarısı: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x1a00017 (mintMenu.p)
+Pencere yöneticisi uyarısı: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Pencere yöneticisi uyarısı: last_user_time (224601056) is greater than comparison timestamp (124381).  This most likely represents a buggy client sending inaccurate timestamps in messages such as _NET_ACTIVE_WINDOW.  Trying to work around...
+Pencere yöneticisi uyarısı: 0xc00003 (Alt Panel) appears to be one of the offending windows with a timestamp of 224601056.  Working around...
+
+** (mate-power-manager:1510): WARNING **: 23:50:58.667: Failed to turn kbd brightness back on after resuming
+
+(blueberry-tray.py:1496): Bluetooth-WARNING **: 09:39:48.113: Error setting property 'Powered' on interface org.bluez.Adapter1: GDBus.Error:org.bluez.Error.Blocked: Blocked through rfkill (g-io-error-quark, 36)
+
+(mate-screensaver:1502): GLib-CRITICAL **: 09:57:59.359: Source ID 116 was not found when attempting to remove it
+
+(blueberry.py:3520): Bluetooth-WARNING **: 10:04:51.931: Error setting property 'Powered' on interface org.bluez.Adapter1: GDBus.Error:org.bluez.Error.Blocked: Blocked through rfkill (g-io-error-quark, 36)
+
+(blueberry.py:3520): Bluetooth-WARNING **: 10:04:51.931: Error setting property 'Discoverable' on interface org.bluez.Adapter1: GDBus.Error:org.bluez.Error.Failed: Not Powered (g-io-error-quark, 36)
+
+(blueberry.py:3520): Bluetooth-WARNING **: 10:04:51.932: Error setting property 'Powered' on interface org.bluez.Adapter1: GDBus.Error:org.bluez.Error.Blocked: Blocked through rfkill (g-io-error-quark, 36)
+nm-applet-Message: 10:05:16.209: No keyring secrets found for Data Koleji 2025/802-11-wireless-security; asking user.
+Gtk-Message: 10:05:16.367: GtkDialog mapped without a transient parent. This is discouraged.
+nm-applet-Message: 10:05:26.388: No keyring secrets found for Resul Efe İPHONE/802-11-wireless-security; asking user.
+Gtk-Message: 10:05:26.509: GtkDialog mapped without a transient parent. This is discouraged.
+
+(engrampa:5004): Gdk-CRITICAL **: 10:48:10.202: gdk_window_set_cursor: assertion 'GDK_IS_WINDOW (window)' failed
+
+(caja:1478): Gtk-CRITICAL **: 10:48:28.463: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(caja:1478): Gtk-CRITICAL **: 10:48:28.463: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(caja:1478): Gtk-CRITICAL **: 10:48:28.463: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(caja:1478): Gtk-CRITICAL **: 10:48:28.464: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(caja:1478): Gtk-CRITICAL **: 10:48:28.464: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(caja:1478): Gtk-CRITICAL **: 10:48:28.464: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+func=xmlSecCheckVersionExt:file=xmlsec.c:line=188:obj=unknown:subj=unknown:error=19:invalid version:mode=abi compatible;expected minor version=2;real minor version=2;expected subminor version=25;real subminor version=26
+PolicyKit daemon disconnected from the bus.
+We are no longer a registered authentication agent.
+PolicyKit daemon reconnected to bus.
+Attempting to re-register as an authentication agent.
+We are now a registered authentication agent.
+PolicyKit daemon disconnected from the bus.
+We are no longer a registered authentication agent.
+PolicyKit daemon reconnected to bus.
+Attempting to re-register as an authentication agent.
+We are now a registered authentication agent.
+
+(blueberry-tray.py:1496): Bluetooth-WARNING **: 13:13:10.932: Error setting property 'Powered' on interface org.bluez.Adapter1: GDBus.Error:org.bluez.Error.Blocked: Blocked through rfkill (g-io-error-quark, 36)
+[Parent 4791, Gecko_IOThread] WARNING: pipe error: Veri alınamıyor: file /build/firefox-HwDgAI/firefox-71.0+linuxmint2+tricia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 4791, Gecko_IOThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-HwDgAI/firefox-71.0+linuxmint2+tricia/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 23
+[Parent 4791, Gecko_IOThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-HwDgAI/firefox-71.0+linuxmint2+tricia/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 23
+[Parent 4791, Gecko_IOThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-HwDgAI/firefox-71.0+linuxmint2+tricia/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 23
+[Parent 4791, Gecko_IOThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-HwDgAI/firefox-71.0+linuxmint2+tricia/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 23
+[Parent 4791, Gecko_IOThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-HwDgAI/firefox-71.0+linuxmint2+tricia/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 23
+[Parent 4791, Gecko_IOThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-HwDgAI/firefox-71.0+linuxmint2+tricia/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 23
+[Parent 4791, Gecko_IOThread] WARNING: pipe error (165): Bağlantı karşıdan kesildi: file /build/firefox-HwDgAI/firefox-71.0+linuxmint2+tricia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 4791, Gecko_IOThread] WARNING: pipe error (174): Bağlantı karşıdan kesildi: file /build/firefox-HwDgAI/firefox-71.0+linuxmint2+tricia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 4791, Gecko_IOThread] WARNING: pipe error (178): Bağlantı karşıdan kesildi: file /build/firefox-HwDgAI/firefox-71.0+linuxmint2+tricia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 4791, Gecko_IOThread] WARNING: pipe error (180): Bağlantı karşıdan kesildi: file /build/firefox-HwDgAI/firefox-71.0+linuxmint2+tricia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 4791, Gecko_IOThread] WARNING: pipe error (200): Bağlantı karşıdan kesildi: file /build/firefox-HwDgAI/firefox-71.0+linuxmint2+tricia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 4791, Gecko_IOThread] WARNING: pipe error: Veri alınamıyor: file /build/firefox-HwDgAI/firefox-71.0+linuxmint2+tricia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 4791, Gecko_IOThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-HwDgAI/firefox-71.0+linuxmint2+tricia/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 23
+[Parent 4791, Gecko_IOThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-HwDgAI/firefox-71.0+linuxmint2+tricia/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 23
+[Parent 4791, Gecko_IOThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-HwDgAI/firefox-71.0+linuxmint2+tricia/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 23
+[Parent 4791, Gecko_IOThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-HwDgAI/firefox-71.0+linuxmint2+tricia/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 23
+[Parent 4791, Gecko_IOThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-HwDgAI/firefox-71.0+linuxmint2+tricia/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 23
+[Parent 4791, Gecko_IOThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-HwDgAI/firefox-71.0+linuxmint2+tricia/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 23
+[Parent 4791, Gecko_IOThread] WARNING: pipe error (174): Bağlantı karşıdan kesildi: file /build/firefox-HwDgAI/firefox-71.0+linuxmint2+tricia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 4791, Gecko_IOThread] WARNING: pipe error (178): Bağlantı karşıdan kesildi: file /build/firefox-HwDgAI/firefox-71.0+linuxmint2+tricia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 4791, Gecko_IOThread] WARNING: pipe error (181): Bağlantı karşıdan kesildi: file /build/firefox-HwDgAI/firefox-71.0+linuxmint2+tricia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 4791, Gecko_IOThread] WARNING: pipe error (182): Bağlantı karşıdan kesildi: file /build/firefox-HwDgAI/firefox-71.0+linuxmint2+tricia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 4791, Gecko_IOThread] WARNING: pipe error (206): Bağlantı karşıdan kesildi: file /build/firefox-HwDgAI/firefox-71.0+linuxmint2+tricia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 4791, Gecko_IOThread] WARNING: pipe error: Veri alınamıyor: file /build/firefox-HwDgAI/firefox-71.0+linuxmint2+tricia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 4791, Gecko_IOThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-HwDgAI/firefox-71.0+linuxmint2+tricia/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 23
+[Parent 4791, Gecko_IOThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-HwDgAI/firefox-71.0+linuxmint2+tricia/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 23
+[Parent 4791, Gecko_IOThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-HwDgAI/firefox-71.0+linuxmint2+tricia/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 23
+[Parent 4791, Gecko_IOThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-HwDgAI/firefox-71.0+linuxmint2+tricia/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 23
+[Parent 4791, Gecko_IOThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-HwDgAI/firefox-71.0+linuxmint2+tricia/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 23
+[Parent 4791, Gecko_IOThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-HwDgAI/firefox-71.0+linuxmint2+tricia/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 23
+[Parent 4791, Gecko_IOThread] WARNING: pipe error (143): Bağlantı karşıdan kesildi: file /build/firefox-HwDgAI/firefox-71.0+linuxmint2+tricia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 4791, Gecko_IOThread] WARNING: pipe error (145): Bağlantı karşıdan kesildi: file /build/firefox-HwDgAI/firefox-71.0+linuxmint2+tricia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 4791, Gecko_IOThread] WARNING: pipe error (151): Bağlantı karşıdan kesildi: file /build/firefox-HwDgAI/firefox-71.0+linuxmint2+tricia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 4791, Gecko_IOThread] WARNING: pipe error (161): Bağlantı karşıdan kesildi: file /build/firefox-HwDgAI/firefox-71.0+linuxmint2+tricia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 4791, Gecko_IOThread] WARNING: pipe error (175): Bağlantı karşıdan kesildi: file /build/firefox-HwDgAI/firefox-71.0+linuxmint2+tricia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 4791, Gecko_IOThread] WARNING: pipe error (76): Bağlantı karşıdan kesildi: file /build/firefox-HwDgAI/firefox-71.0+linuxmint2+tricia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 4791, Gecko_IOThread] WARNING: pipe error (166): Bağlantı karşıdan kesildi: file /build/firefox-HwDgAI/firefox-71.0+linuxmint2+tricia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 4791, Gecko_IOThread] WARNING: pipe error (109): Bağlantı karşıdan kesildi: file /build/firefox-HwDgAI/firefox-71.0+linuxmint2+tricia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+
+(mate-screensaver:1502): GLib-CRITICAL **: 16:00:45.141: Source ID 208 was not found when attempting to remove it
+
+** (mate-power-manager:1510): WARNING **: 16:07:48.015: Failed to turn kbd brightness back on after resuming
+
+(blueberry-tray.py:1496): Bluetooth-WARNING **: 17:16:07.993: Error setting property 'Powered' on interface org.bluez.Adapter1: GDBus.Error:org.freedesktop.DBus.Error.UnknownObject: Method "Set" with signature "ssv" on interface "org.freedesktop.DBus.Properties" doesn't exist
+ (g-dbus-error-quark, 41)
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+
+** (mate-power-manager:1510): WARNING **: 19:05:27.343: Failed to turn kbd brightness back on after resuming
+
+(blueberry-tray.py:1496): Bluetooth-WARNING **: 10:02:50.012: Error setting property 'Powered' on interface org.bluez.Adapter1: GDBus.Error:org.freedesktop.DBus.Error.UnknownObject: Method "Set" with signature "ssv" on interface "org.freedesktop.DBus.Properties" doesn't exist
+ (g-dbus-error-quark, 41)
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+
+(pluma:8525): GLib-GIO-WARNING **: 11:50:49.176: Failed to parse translated string '[UTF-8,Güncel,ISO-8859-9,UTF-16]' for key 'auto-detected-encodings' in schema 'org.mate.pluma': 1-2:unknown keyword
+
+(pluma:8525): GLib-GIO-WARNING **: 11:50:49.176: Using untranslated default instead.
+
+(pluma:8525): GLib-GIO-WARNING **: 12:07:56.068: Failed to parse translated string '[ISO-8859-15]' for key 'shown-in-menu-encodings' in schema 'org.mate.pluma': 1-2:unknown keyword
+
+(pluma:8525): GLib-GIO-WARNING **: 12:07:56.068: Using untranslated default instead.
+
+(pluma:8525): GLib-GIO-WARNING **: 12:08:00.302: Failed to parse translated string '[UTF-8,Güncel,ISO-8859-9,UTF-16]' for key 'auto-detected-encodings' in schema 'org.mate.pluma': 1-2:unknown keyword
+
+(pluma:8525): GLib-GIO-WARNING **: 12:08:00.303: Using untranslated default instead.
+
+(pluma:8525): GLib-GIO-WARNING **: 12:08:00.336: Failed to parse translated string '[ISO-8859-15]' for key 'shown-in-menu-encodings' in schema 'org.mate.pluma': 1-2:unknown keyword
+
+(pluma:8525): GLib-GIO-WARNING **: 12:08:00.336: Using untranslated default instead.
+
+(pluma:8525): GLib-GIO-WARNING **: 12:08:03.081: Failed to parse translated string '[UTF-8,Güncel,ISO-8859-9,UTF-16]' for key 'auto-detected-encodings' in schema 'org.mate.pluma': 1-2:unknown keyword
+
+(pluma:8525): GLib-GIO-WARNING **: 12:08:03.081: Using untranslated default instead.
+
+(pluma:8525): GLib-GIO-WARNING **: 12:08:03.108: Failed to parse translated string '[ISO-8859-15]' for key 'shown-in-menu-encodings' in schema 'org.mate.pluma': 1-2:unknown keyword
+
+(pluma:8525): GLib-GIO-WARNING **: 12:08:03.108: Using untranslated default instead.
+
+(xed:11591): Gtk-CRITICAL **: 13:33:09.350: gtk_action_group_get_action: assertion 'GTK_IS_ACTION_GROUP (action_group)' failed
+func=xmlSecCheckVersionExt:file=xmlsec.c:line=188:obj=unknown:subj=unknown:error=19:invalid version:mode=abi compatible;expected minor version=2;real minor version=2;expected subminor version=25;real subminor version=26
+func=xmlSecCheckVersionExt:file=xmlsec.c:line=188:obj=unknown:subj=unknown:error=19:invalid version:mode=abi compatible;expected minor version=2;real minor version=2;expected subminor version=25;real subminor version=26
+func=xmlSecCheckVersionExt:file=xmlsec.c:line=188:obj=unknown:subj=unknown:error=19:invalid version:mode=abi compatible;expected minor version=2;real minor version=2;expected subminor version=25;real subminor version=26
+
+(mate-screensaver:1502): GLib-CRITICAL **: 16:35:52.930: Source ID 633 was not found when attempting to remove it
+
+** (mate-power-manager:1510): WARNING **: 17:25:13.053: Failed to turn kbd brightness back on after resuming

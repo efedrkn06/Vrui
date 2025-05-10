@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///media/efe/LINUX%20MINT/autorun.ico" added="2025-05-07T19:26:08Z" modified="2025-05-07T19:26:08Z" visited="2025-05-07T19:26:08Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/vnd.microsoft.icon"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;xviewer %u&apos;" modified="2025-05-07T19:26:08Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/efe/src/Kinect-3.10/Makefile" added="2025-05-07T20:30:33Z" modified="2025-05-10T08:12:23Z" visited="2025-05-07T20:30:34Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>pluma</bookmark:group>
+          <bookmark:group>xed</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Pluma" exec="&apos;pluma %u&apos;" modified="2025-05-07T20:31:58Z" count="2"/>
+          <bookmark:application name="xed" exec="&apos;xed %u&apos;" modified="2025-05-10T08:12:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_efe0/efe.docx" added="2025-05-08T09:32:26Z" modified="2025-05-08T09:32:29Z" visited="2025-05-08T09:32:27Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-05-08T09:32:26Z" count="1"/>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2025-05-08T09:32:29Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/efe/.config/Vrui-8.0/Applications/Calibrate" added="2025-05-08T12:04:47Z" modified="2025-05-08T12:04:47Z" visited="2025-05-08T12:04:47Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>pluma</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Pluma" exec="&apos;pluma %u&apos;" modified="2025-05-08T12:04:47Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/efe/.config/Vrui-8.0/Applications/projector.cfg" added="2025-05-08T12:04:47Z" modified="2025-05-08T12:04:47Z" visited="2025-05-08T12:04:47Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>pluma</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Pluma" exec="&apos;pluma %u&apos;" modified="2025-05-08T12:04:47Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/efe/Makefile" added="2025-05-08T12:15:02Z" modified="2025-05-09T08:52:10Z" visited="2025-05-08T12:15:03Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-makefile"/>
+        <bookmark:groups>
+          <bookmark:group>pluma</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Pluma" exec="&apos;pluma %u&apos;" modified="2025-05-09T08:52:10Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/efe/Vrui-8.0-001.tar.gz" added="2025-05-08T14:20:26Z" modified="2025-05-08T14:20:27Z" visited="2025-05-08T14:20:27Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Engrampa" exec="&apos;engrampa&apos;" modified="2025-05-08T14:20:27Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/efe/Kinect-3.10/makefile" added="2025-05-08T14:25:01Z" modified="2025-05-10T08:12:39Z" visited="2025-05-08T14:25:01Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>xed</bookmark:group>
+          <bookmark:group>pluma</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="xed" exec="&apos;xed %u&apos;" modified="2025-05-10T08:12:39Z" count="12"/>
+          <bookmark:application name="Pluma" exec="&apos;pluma %u&apos;" modified="2025-05-09T08:50:49Z" count="1"/>
+          <bookmark:application name="Caja" exec="&apos;pluma %U&apos;" modified="2025-05-09T08:51:15Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/efe/Vrui-8.0-001/makefile" added="2025-05-09T09:09:03Z" modified="2025-05-09T09:09:03Z" visited="2025-05-09T09:09:03Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>xed</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="xed" exec="&apos;xed %u&apos;" modified="2025-05-09T09:09:03Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/efe/%C4%B0ndirilenler/efe.docx" added="2025-05-09T11:24:33Z" modified="2025-05-09T11:54:06Z" visited="2025-05-09T11:24:33Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-05-09T11:24:33Z" count="1"/>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2025-05-09T11:54:06Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/efe/%C4%B0ndirilenler/efe(1).docx" added="2025-05-09T11:49:32Z" modified="2025-05-09T11:49:35Z" visited="2025-05-09T11:49:32Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-05-09T11:49:32Z" count="1"/>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2025-05-09T11:49:35Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/efe/%C4%B0ndirilenler/efe(2).docx" added="2025-05-09T13:11:43Z" modified="2025-05-09T13:11:44Z" visited="2025-05-09T13:11:43Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-05-09T13:11:43Z" count="1"/>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2025-05-09T13:11:44Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/efe/%C4%B0ndirilenler/efe(3).docx" added="2025-05-10T08:10:42Z" modified="2025-05-10T08:10:53Z" visited="2025-05-10T08:10:43Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-05-10T08:10:42Z" count="1"/>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2025-05-10T08:10:53Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/efe/src/Kinect-3.10/makefile" added="2025-05-10T08:11:40Z" modified="2025-05-10T08:12:19Z" visited="2025-05-10T08:11:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>xed</bookmark:group>
+          <bookmark:group>pluma</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="xed" exec="&apos;xed %u&apos;" modified="2025-05-10T08:12:19Z" count="2"/>
+          <bookmark:application name="Pluma" exec="&apos;pluma %u&apos;" modified="2025-05-10T08:12:15Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

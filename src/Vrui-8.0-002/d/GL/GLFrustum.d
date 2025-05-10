@@ -1,0 +1,31 @@
+$(OBJDIR)/GL/GLFrustum.o $(OBJDIR)/pic/GL/GLFrustum.o: GL/GLFrustum.cpp \
+ /home/efe/src/Vrui-8.0-002/GL/GLFrustum.icpp \
+ /home/efe/src/Vrui-8.0-002/GL/GLFrustum.h \
+ /home/efe/src/Vrui-8.0-002/Geometry/Point.h \
+ /home/efe/src/Vrui-8.0-002/Math/Math.h \
+ /home/efe/src/Vrui-8.0-002/Geometry/ComponentArray.h \
+ /home/efe/src/Vrui-8.0-002/Geometry/Vector.h \
+ /home/efe/src/Vrui-8.0-002/Geometry/HVector.h \
+ /home/efe/src/Vrui-8.0-002/Geometry/Plane.h \
+ /home/efe/src/Vrui-8.0-002/Geometry/Matrix.h \
+ /home/efe/src/Vrui-8.0-002/Geometry/Ray.h \
+ /home/efe/src/Vrui-8.0-002/Geometry/SolidHitResult.h \
+ /home/efe/src/Vrui-8.0-002/Geometry/HitResult.h \
+ /home/efe/src/Vrui-8.0-002/Math/Constants.h \
+ /home/efe/src/Vrui-8.0-002/Geometry/Box.h \
+ /home/efe/src/Vrui-8.0-002/Geometry/OrthogonalTransformation.h \
+ /home/efe/src/Vrui-8.0-002/Geometry/Rotation.h \
+ /home/efe/src/Vrui-8.0-002/Geometry/ProjectiveTransformation.h \
+ /home/efe/src/Vrui-8.0-002/GL/GLGeometryWrappers.h \
+ /home/efe/src/Vrui-8.0-002/GL/GLVector.h \
+ /home/efe/src/Vrui-8.0-002/GL/GLTexCoordTemplates.h \
+ /home/efe/src/Vrui-8.0-002/GL/GLNormalTemplates.h \
+ /home/efe/src/Vrui-8.0-002/GL/GLVertexTemplates.h \
+ /home/efe/src/Vrui-8.0-002/GL/GLVertexArrayTemplates.h \
+ /home/efe/src/Vrui-8.0-002/GL/GLColor.h \
+ /home/efe/src/Vrui-8.0-002/GL/GLScalarLimits.h \
+ /home/efe/src/Vrui-8.0-002/GL/GLLightTemplates.h \
+ /home/efe/src/Vrui-8.0-002/GL/GLLightEnums.h \
+ /home/efe/src/Vrui-8.0-002/GL/GLMatrixTemplates.h \
+ /home/efe/src/Vrui-8.0-002/GL/GLTransformationWrappers.h \
+ /home/efe/src/Vrui-8.0-002/GL/GLMatrixEnums.h

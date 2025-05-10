@@ -1,0 +1,65 @@
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/efe/.Xauthority
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting LANG=tr_TR.UTF-8
+dbus-update-activation-environment: setting GDM_LANG=tr
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting COMPIZ_CONFIG_PROFILE=mate
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/efe
+dbus-update-activation-environment: setting USER=efe
+dbus-update-activation-environment: setting DESKTOP_SESSION=mate
+dbus-update-activation-environment: setting PWD=/home/efe
+dbus-update-activation-environment: setting HOME=/home/efe
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/mate:/home/efe/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=mate
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting XDG_CURRENT_DESKTOP=MATE
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting LANGUAGE=tr
+dbus-update-activation-environment: setting GDMSESSION=mate
+dbus-update-activation-environment: setting LOGNAME=efe
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting XAUTHORITY=/home/efe/.Xauthority
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-mate:/etc/xdg
+dbus-update-activation-environment: setting PATH=/home/efe/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+** Message: 09:46:23.501: couldn't access control socket: /run/user/1000/keyring/control: Böyle bir dosya ya da dizin yok
+mate-session[1072]: WARNING: Unable to find provider '' of required component 'dock'
+Pencere yöneticisi uyarısı: Log level 16: XPresent is not compatible with your current system configuration.
+
+(blueberry-tray.py:1548): Bluetooth-WARNING **: 09:46:24.591: Error setting property 'Powered' on interface org.bluez.Adapter1: GDBus.Error:org.bluez.Error.Blocked: Blocked through rfkill (g-io-error-quark, 36)
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+func=xmlSecCheckVersionExt:file=xmlsec.c:line=188:obj=unknown:subj=unknown:error=19:invalid version:mode=abi compatible;expected minor version=2;real minor version=2;expected subminor version=25;real subminor version=26
+func=xmlSecCheckVersionExt:file=xmlsec.c:line=188:obj=unknown:subj=unknown:error=19:invalid version:mode=abi compatible;expected minor version=2;real minor version=2;expected subminor version=25;real subminor version=26
+func=xmlSecCheckVersionExt:file=xmlsec.c:line=188:obj=unknown:subj=unknown:error=19:invalid version:mode=abi compatible;expected minor version=2;real minor version=2;expected subminor version=25;real subminor version=26
+
+(pluma:4527): GLib-GIO-WARNING **: 11:11:45.294: Failed to parse translated string '[UTF-8,Güncel,ISO-8859-9,UTF-16]' for key 'auto-detected-encodings' in schema 'org.mate.pluma': 1-2:unknown keyword
+
+(pluma:4527): GLib-GIO-WARNING **: 11:11:45.295: Using untranslated default instead.
+
+(pluma:4527): GLib-GIO-WARNING **: 11:11:59.742: Failed to parse translated string 'Karakterler Arasındaki Uzaklik 12' for key 'editor-font' in schema 'org.mate.pluma': 0-1:unknown keyword
+
+(pluma:4527): GLib-GIO-WARNING **: 11:11:59.742: Using untranslated default instead.
+
+(pluma:4527): GLib-GIO-WARNING **: 11:11:59.802: Failed to parse translated string '[ISO-8859-15]' for key 'shown-in-menu-encodings' in schema 'org.mate.pluma': 1-2:unknown keyword
+
+(pluma:4527): GLib-GIO-WARNING **: 11:11:59.802: Using untranslated default instead.
+
+(pluma:4527): GLib-GIO-WARNING **: 11:12:05.302: Failed to parse translated string 'Karakterler Arasındaki Uzaklik 12' for key 'editor-font' in schema 'org.mate.pluma': 0-1:unknown keyword
+
+(pluma:4527): GLib-GIO-WARNING **: 11:12:05.302: Using untranslated default instead.
+
+(pluma:4527): GLib-GIO-WARNING **: 11:12:05.338: Failed to parse translated string '[ISO-8859-15]' for key 'shown-in-menu-encodings' in schema 'org.mate.pluma': 1-2:unknown keyword
+
+(pluma:4527): GLib-GIO-WARNING **: 11:12:05.338: Using untranslated default instead.

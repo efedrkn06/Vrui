@@ -1,0 +1,34 @@
+$(OBJDIR)/Vrui/ClipPlaneManager.o $(OBJDIR)/pic/Vrui/ClipPlaneManager.o: Vrui/ClipPlaneManager.cpp \
+ /home/efe/src/Vrui-8.0-002/Vrui/ClipPlaneManager.h \
+ /home/efe/src/Vrui-8.0-002/Vrui/Geometry.h \
+ /home/efe/src/Vrui-8.0-002/Vrui/ClipPlane.h \
+ /home/efe/src/Vrui-8.0-002/Geometry/Plane.h \
+ /home/efe/src/Vrui-8.0-002/Math/Math.h \
+ /home/efe/src/Vrui-8.0-002/Geometry/ComponentArray.h \
+ /home/efe/src/Vrui-8.0-002/Geometry/Vector.h \
+ /home/efe/src/Vrui-8.0-002/Geometry/Point.h \
+ /home/efe/src/Vrui-8.0-002/Geometry/Matrix.h \
+ /home/efe/src/Vrui-8.0-002/Geometry/HVector.h \
+ /home/efe/src/Vrui-8.0-002/Geometry/Ray.h \
+ /home/efe/src/Vrui-8.0-002/Geometry/SolidHitResult.h \
+ /home/efe/src/Vrui-8.0-002/Geometry/HitResult.h \
+ /home/efe/src/Vrui-8.0-002/Math/Constants.h \
+ /home/efe/src/Vrui-8.0-002/GL/GLMatrixTemplates.h \
+ /home/efe/src/Vrui-8.0-002/GL/GLVector.h \
+ /home/efe/src/Vrui-8.0-002/GL/GLClipPlaneTracker.h \
+ /home/efe/src/Vrui-8.0-002/GL/GLContextData.h \
+ /home/efe/src/Vrui-8.0-002/Misc/HashTable.h \
+ /home/efe/src/Vrui-8.0-002/Misc/PoolAllocator.h \
+ /home/efe/src/Vrui-8.0-002/Misc/StandardHashFunction.h \
+ /home/efe/src/Vrui-8.0-002/Misc/CallbackData.h \
+ /home/efe/src/Vrui-8.0-002/Misc/CallbackList.h \
+ /home/efe/src/Vrui-8.0-002/GL/TLSHelper.h \
+ /home/efe/src/Vrui-8.0-002/GL/Config.h \
+ /home/efe/src/Vrui-8.0-002/GL/GLObject.h \
+ /home/efe/src/Vrui-8.0-002/Vrui/Vrui.h \
+ /home/efe/src/Vrui-8.0-002/GL/GLColor.h \
+ /home/efe/src/Vrui-8.0-002/GL/GLScalarLimits.h \
+ /home/efe/src/Vrui-8.0-002/Vrui/DisplayState.h \
+ /home/efe/src/Vrui-8.0-002/Geometry/OrthogonalTransformation.h \
+ /home/efe/src/Vrui-8.0-002/Geometry/Rotation.h \
+ /home/efe/src/Vrui-8.0-002/Geometry/ProjectiveTransformation.h

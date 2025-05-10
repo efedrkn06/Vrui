@@ -1,0 +1,1070 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="og: https://ogp.me/ns#">
+  <head>
+    <meta charset="utf-8" />
+<noscript><style>form.antibot * :not(.antibot-message) { display: none !important; }</style>
+</noscript><script async src="https://www.googletagmanager.com/gtag/js?id=UA-38805315-11"></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "UA-38805315-11", {"groups":"default","anonymize_ip":true,"page_placeholder":"PLACEHOLDER_page_path"});gtag("config", "G-Z1ZK7X4QGQ", {"groups":"default","page_placeholder":"PLACEHOLDER_page_location"});gtag("config", "G-3F5L6WYJ4W", {"groups":"default","page_placeholder":"PLACEHOLDER_page_location"});gtag("config", "G-XJ9SKW94MM", {"groups":"default","page_placeholder":"PLACEHOLDER_page_location"});</script>
+<link rel="canonical" href="https://cs.ucdavis.edu/" />
+<link rel="shortlink" href="https://cs.ucdavis.edu/" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta http-equiv="apple-mobile-web-app-capable" content="yes" />
+<link rel="modulepreload" href="https://cdn.skypack.dev/pin/lit@v2.0.0-rc.3-RFrIXWBysJfo8GpKQ4Gc/mode=imports,min/optimized/lit.js" />
+<link rel="modulepreload" href="/profiles/sitefarm/themes/sitefarm_one/dist/primary-nav.js" />
+<link rel="preload" href="https://campusfont.ucdavis.edu/proxima-nova/proximanova_bold_macroman/proximanova-bold-webfont.woff2" as="font" type="font/woff" crossorigin="true" />
+<link rel="preload" href="https://campusfont.ucdavis.edu/proxima-nova/proximanova_regular_macroman/proximanova-regular-webfont.woff2" as="font" type="font/woff" crossorigin="true" />
+<link rel="preload" href="https://campusfont.ucdavis.edu/proxima-nova/proximanova_extrabold_macroman/proximanova-extrabold-webfont.woff2" as="font" type="font/woff" crossorigin="true" />
+<link rel="preload" href="https://use.fontawesome.com/releases/v6.7.2/webfonts/fa-solid-900.woff2" as="font" type="font/woff" crossorigin="true" />
+<link rel="icon" href="/sites/g/files/dgvnsk8441/files/COE_favicon_512x512.png" type="image/png" />
+<link rel="alternate" type="application/rss+xml" title="Recent Articles" href="https://cs.ucdavis.edu/articles.rss" />
+
+    <title>Computer Science | UC Davis Engineering</title>
+    <link rel="stylesheet" media="all" href="/sites/g/files/dgvnsk8441/files/css/css_a19iT2ItCBojb3_hIvhKHb2dV3DaUq69VpkaklvYbMk.css?delta=0&amp;language=en&amp;theme=sitefarm_one&amp;include=eJxljtEOgzAIRX-osU_7HoIVHWkLpuDM9vVb1AebvZDcwwnclGli1_aAtWwLC6yYMrBMJA5j0ZTjPYR0-ZdyN07B2GnGVkGFYjKD0w-mibFA_UWEwpIt_qPBn1Qp2NucahzRKCRtFEVbxcIf6s8fQkcqmeFC1tN76DeziuNOpr-vR484c3FqQ8LVWSW8mHaLxxyqTluhL6BAeKc" />
+<link rel="stylesheet" media="all" href="/sites/g/files/dgvnsk8441/files/css/css_INCeW6Mf2lANsiS0G4ezjNOIz5HeF3URPujkwzqZ7Wo.css?delta=1&amp;language=en&amp;theme=sitefarm_one&amp;include=eJxljtEOgzAIRX-osU_7HoIVHWkLpuDM9vVb1AebvZDcwwnclGli1_aAtWwLC6yYMrBMJA5j0ZTjPYR0-ZdyN07B2GnGVkGFYjKD0w-mibFA_UWEwpIt_qPBn1Qp2NucahzRKCRtFEVbxcIf6s8fQkcqmeFC1tN76DeziuNOpr-vR484c3FqQ8LVWSW8mHaLxxyqTluhL6BAeKc" />
+<link rel="stylesheet" media="all" href="https://use.fontawesome.com/releases/v6.7.2/css/all.css" crossorigin="anonymous" />
+<link rel="stylesheet" media="all" href="/sites/g/files/dgvnsk8441/files/css/css__Y2ZMAr-Z6m4_BdtczVLUFJNRCwx1Kgseqh5XtpQc8k.css?delta=3&amp;language=en&amp;theme=sitefarm_one&amp;include=eJxljtEOgzAIRX-osU_7HoIVHWkLpuDM9vVb1AebvZDcwwnclGli1_aAtWwLC6yYMrBMJA5j0ZTjPYR0-ZdyN07B2GnGVkGFYjKD0w-mibFA_UWEwpIt_qPBn1Qp2NucahzRKCRtFEVbxcIf6s8fQkcqmeFC1tN76DeziuNOpr-vR484c3FqQ8LVWSW8mHaLxxyqTluhL6BAeKc" />
+
+    <script src="/profiles/sitefarm/themes/sitefarm_one/dist/main.js?sv4zl4" type="module"></script>
+
+  </head>
+  <body class="path-frontpage view-sf-frontpage l-header--fixed">
+        <a href="#main-content" class="visually-hidden focusable skip-link">
+      Skip to main content
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+
+
+<div class="layout-container  ">
+    <header class="l-header header" role="banner">
+    
+    <div class="mobile-bar">
+      <div class="mobile-bar__nav-toggle">
+        <button class="nav-toggle js-nav-toggle" aria-controls="primary-nav" aria-expanded="false" aria-label="Toggle Main Menu">
+          <span class="nav-toggle__icon nav-toggle__icon--menu">Menu</span>
+        </button>
+      </div>
+      <div class="mobile-bar__fixed-site-name"><a href="/" title="Home" rel="home">Computer Science | UC Davis Engineering</a></div>
+      <div class="mobile-bar__university">
+        <a href="https://www.ucdavis.edu/"><img src="/profiles/sitefarm/themes/sitefarm_one/images/uc-logo-gold.svg" class="ucd-logo" alt="UC Davis Logo" width="124" height="20" /></a>
+      </div>
+    </div>
+
+    <div class="header__bar">
+      <div class="header__university">
+        <a href="https://www.ucdavis.edu/">
+          <img src="/profiles/sitefarm/themes/sitefarm_one/images/uc-logo-blue.svg" class="ucd-logo" alt="UC Davis Logo" width="100" height="16" />
+        </a>
+      </div>
+    </div>
+
+    <div class="l-header__branding">
+        <div class="region region-header">
+    
+<div id="block-sitefarm-one-branding" class="site-branding block block-system block-system-branding-block">
+    
+    
+          <div class="site-branding__figure">
+      <a href="/" title="Home" rel="home">
+        <img src="/sites/g/files/dgvnsk8441/files/cs_logo_125px.png" alt="Site Logo" class="site-logo" fetchpriority="high" />
+      </a>
+    </div>
+    <div class="site-branding__body">
+            
+  </div>
+</div>
+
+  </div>
+
+    </div>
+
+    <div class="l-navbar header__navbar menu--closed">
+      <div class="l-container--navigation off-canvas off-canvas--left">
+        <div class="off-canvas__container l-nav-horizontal">
+          <div class="l-nav-horizontal__search-popup ">
+              <div class="region region-search">
+    <button class="search-popup__open js-search-popup__open">
+  <span class="search-popup__open-icon">Open Search</span>
+</button>
+<div class="search-block-form search-popup" data-drupal-selector="search-block-form" id="block-sitefarm-one-search" role="search">
+      <form action="/search/node" method="get" id="search-block-form" accept-charset="UTF-8" class="search-form">
+  <div class="js-form-item form-item js-form-type-search form-type-search js-form-item-keys form-item-keys form-no-label">
+      <label for="edit-keys" class="visually-hidden">Search</label>
+        <input title="Enter the terms you wish to search for." class="search-form__input form-search" placeholder="Search..." required="required" data-drupal-selector="edit-keys" type="search" id="edit-keys" name="keys" value="" size="15" maxlength="128" />
+
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input class="search-form__submit js-form-submit form-submit" data-drupal-selector="edit-submit" type="submit" id="edit-submit" value=" Submit" />
+</div>
+
+</form>
+
+  </div>
+
+
+  </div>
+
+          </div>
+          <div class="l-nav-horizontal__quick-links">
+                            <div class="region region-quick-links">
+    <div class="quick-links">
+  <button id="block-sitefarm-one-quicklinks-menu" class="quick-links__title" aria-controls="quick-links" aria-expanded="false" aria-label="Toggle Quick Links Menu">
+    Quick Links
+    <span class="submenu-toggle"><span class="submenu-toggle__icon">+</span></span>
+  </button>
+  <nav aria-labelledby="block-sitefarm-one-quicklinks-menu" id="block-sitefarm-one-quicklinks" class="quick-links__menu u-hidden--visually quick-links--two-columns quick-links--highlight">
+              
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="https://www.ucdavis.edu/admissions/apply/">Apply</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://alumni.engineering.ucdavis.edu/">Alumni</a>
+              </li>
+                <li class="menu-item">
+        <a href="/directory" data-drupal-link-system-path="directory">Directory</a>
+              </li>
+                <li class="menu-item">
+        <a href="/safety" title="Safety" data-drupal-link-system-path="node/241">Safety</a>
+              </li>
+                <li class="menu-item">
+        <a href="/advising" data-drupal-link-system-path="node/166">Advising</a>
+              </li>
+                <li class="menu-item">
+        <a href="/undergraduate/current-majors/frequently-asked-questions" title="Undergraduate FAQs">Undergraduate FAQs</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://cs.ucdavis.edu/undergraduate/non-majors/changing-majors-double-majors" title="Changing Majors and Double Majors">Changing Majors and Double Majors</a>
+              </li>
+                <li class="menu-item">
+        <a href="/graduate/current-students/faqs-current-grads" title="Graduate FAQs" data-drupal-link-system-path="node/106">Graduate FAQs</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://sisweb.ucdavis.edu/" title="Schedule Builder">Schedule Builder</a>
+              </li>
+                <li class="menu-item">
+        <a href="/schedules-classes" data-drupal-link-system-path="schedules-classes">Schedules and Classes</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://www.ucdavis.edu/calendar/academic/" title="Academic Deadlines">Academic Deadlines</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://csif.cs.ucdavis.edu/" title="CSIF">CSIF</a>
+              </li>
+                <li class="menu-item">
+        <a href="http://ssg.cs.ucdavis.edu/" title="Systems Support Group">Systems Support Group</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://cows.ucdavis.edu/engr" title="Room Reservations">Room Reservations</a>
+              </li>
+                <li class="menu-item">
+        <a href="/visit-cs" title="Visit CS" data-drupal-link-system-path="node/246">Visit CS</a>
+              </li>
+                <li class="menu-item">
+        <a href="/job-opportunities" title="Job Opportunities" data-drupal-link-system-path="node/251">Job Opportunities</a>
+              </li>
+                <li class="menu-item">
+        <a href="/contact" data-drupal-link-system-path="node/2081">Contact Us</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://intranet.engineering.ucdavis.edu/">COE Resources Intranet</a>
+              </li>
+        </ul>
+  
+
+
+      </nav>
+</div>
+
+  </div>
+
+                      </div>
+          <div class="l-nav-horizontal__primary-nav">
+              <div class="region region-navigation">
+    
+
+
+  <nav aria-labelledby="block-sitefarm-one-main-menu-menu" id="primary-nav" class="primary-nav primary-nav--superfish">
+            
+      <h2 class="visually-hidden" id="block-sitefarm-one-main-menu-menu">Main navigation (extended config)</h2>
+    
+
+        
+              <ul suggestion="region_navigation" class="menu">
+                                                    <li class="menu-item menu-item--expanded">
+                  <div class="submenu-toggle__wrapper primary-nav__top-link">
+            <a href="/about" data-drupal-link-system-path="node/6">          About<span class="primary-nav__submenu-indicator"></span>
+        </a>
+            <button class="submenu-toggle" aria-label="Toggle Submenu"><span class="submenu-toggle__icon"></span></button>
+          </div>
+                        <ul class="menu">
+                                      <li class="menu-item">
+                            <a href="/about/awards" title="Awards" data-drupal-link-system-path="node/261">Awards</a>
+                        </li>
+                                  <li class="menu-item">
+                            <a href="/about/industrial-affiliates" title="Industrial Affiliates" data-drupal-link-system-path="node/351">Industrial Affiliates</a>
+                        </li>
+                                  <li class="menu-item">
+                            <a href="/about/history" title="History" data-drupal-link-system-path="node/231">History</a>
+                        </li>
+                                  <li class="menu-item">
+                            <a href="/about/advisory-board" data-drupal-link-system-path="node/691">Advisory Board</a>
+                        </li>
+                                  <li class="menu-item">
+                            <a href="/contact" data-drupal-link-system-path="node/2081">Contact Us</a>
+                        </li>
+        </ul>
+  
+              </li>
+                                                <li class="menu-item menu-item--expanded">
+                  <div class="submenu-toggle__wrapper primary-nav__top-link">
+            <a href="/admissions" data-drupal-link-system-path="node/2726">          Apply<span class="primary-nav__submenu-indicator"></span>
+        </a>
+            <button class="submenu-toggle" aria-label="Toggle Submenu"><span class="submenu-toggle__icon"></span></button>
+          </div>
+                        <ul class="menu">
+                                                    <li class="menu-item menu-item--expanded">
+                  <div class="submenu-toggle__wrapper ">
+            <a href="/undergraduate/prospective-students" data-drupal-link-system-path="node/151">          Prospective Undergraduate Students<span class="primary-nav__submenu-indicator"></span>
+        </a>
+            <button class="submenu-toggle" aria-label="Toggle Submenu"><span class="submenu-toggle__icon"></span></button>
+          </div>
+                        <ul class="menu">
+                                      <li class="menu-item">
+                            <a href="/undergraduate/prospective-students/frequently-asked-questions" data-drupal-link-system-path="node/216">Frequently Asked Questions</a>
+                        </li>
+                                                <li class="menu-item menu-item--expanded">
+                  <div class="submenu-toggle__wrapper ">
+            <a href="/undergraduate/prospective-students/majors" data-drupal-link-system-path="node/206">          Majors<span class="primary-nav__submenu-indicator"></span>
+        </a>
+            <button class="submenu-toggle" aria-label="Toggle Submenu"><span class="submenu-toggle__icon"></span></button>
+          </div>
+                        <ul class="menu">
+                                      <li class="menu-item">
+                            <a href="/undergraduate/prospective-students/majors/computer-science" data-drupal-link-system-path="node/676">Computer Science Major</a>
+                        </li>
+                                  <li class="menu-item">
+                            <a href="/undergraduate/prospective-students/majors/computer-science-engineering" data-drupal-link-system-path="node/681">Computer Science and Engineering Major</a>
+                        </li>
+                                  <li class="menu-item">
+                            <a href="/undergraduate/prospective-students/transfer-information" data-drupal-link-system-path="node/211">Transfer Information</a>
+                        </li>
+        </ul>
+  
+              </li>
+        </ul>
+  
+              </li>
+                                                <li class="menu-item menu-item--expanded">
+                  <div class="submenu-toggle__wrapper ">
+            <a href="/graduate/prospective-students" title="Prospective Students" data-drupal-link-system-path="node/51">          Prospective Graduate Students<span class="primary-nav__submenu-indicator"></span>
+        </a>
+            <button class="submenu-toggle" aria-label="Toggle Submenu"><span class="submenu-toggle__icon"></span></button>
+          </div>
+                        <ul class="menu">
+                                      <li class="menu-item">
+                            <a href="/graduate/prospective-students/admission-requirements" title="Admission Requirements" data-drupal-link-system-path="node/86">Admission Requirements</a>
+                        </li>
+                                  <li class="menu-item">
+                            <a href="/graduate/prospective-students/how-apply" title="How to Apply" data-drupal-link-system-path="node/91">How to Apply</a>
+                        </li>
+                                  <li class="menu-item">
+                            <a href="/graduate/prospective-students/faqs-prospective-grads" title="Frequently Asked Questions" data-drupal-link-system-path="node/96">Frequently Asked Questions</a>
+                        </li>
+                                  <li class="menu-item">
+                            <a href="/graduate/prospective-students/undergraduate-proficiency-requirements" title="Prerequisite Proficiency Requirements" data-drupal-link-system-path="node/2631">Prerequisite Proficiency Requirements</a>
+                        </li>
+        </ul>
+  
+              </li>
+        </ul>
+  
+              </li>
+                                                <li class="menu-item menu-item--expanded">
+                  <div class="submenu-toggle__wrapper primary-nav__top-link">
+            <a href="/advising" data-drupal-link-system-path="node/166">          Undergraduate<span class="primary-nav__submenu-indicator"></span>
+        </a>
+            <button class="submenu-toggle" aria-label="Toggle Submenu"><span class="submenu-toggle__icon"></span></button>
+          </div>
+                        <ul class="menu">
+                                                    <li class="menu-item menu-item--expanded">
+                  <div class="submenu-toggle__wrapper ">
+            <a href="/advising" data-drupal-link-system-path="node/166">          Current Students<span class="primary-nav__submenu-indicator"></span>
+        </a>
+            <button class="submenu-toggle" aria-label="Toggle Submenu"><span class="submenu-toggle__icon"></span></button>
+          </div>
+                        <ul class="menu">
+                                      <li class="menu-item">
+                            <a href="/undergraduate/new-students" data-drupal-link-system-path="node/2196">New Students</a>
+                        </li>
+                                  <li class="menu-item">
+                            <a href="/advising" data-drupal-link-system-path="node/166">Advising</a>
+                        </li>
+                                  <li class="menu-item">
+                            <a href="/advising-appointments" data-drupal-link-system-path="node/2466">Advising Appointments</a>
+                        </li>
+                                  <li class="menu-item">
+                            <a href="/majors" data-drupal-link-system-path="node/2471">Major Requirements</a>
+                        </li>
+                                  <li class="menu-item">
+                            <a href="/student-resources" data-drupal-link-system-path="node/176">Student Resources</a>
+                        </li>
+                                  <li class="menu-item">
+                            <a href="/schedules-classes" data-drupal-link-system-path="schedules-classes">ECS Courses</a>
+                        </li>
+                                  <li class="menu-item">
+                            <a href="/prerequisites" data-drupal-link-system-path="node/2511">Prerequisites</a>
+                        </li>
+                                  <li class="menu-item">
+                            <a href="/transferring-courses" data-drupal-link-system-path="node/2476">Transferring Courses</a>
+                        </li>
+                                  <li class="menu-item">
+                            <a href="/policies" data-drupal-link-system-path="node/161">Policies</a>
+                        </li>
+                                  <li class="menu-item">
+                            <a href="/frequently-asked-questions" data-drupal-link-system-path="node/156">Frequently Asked Questions</a>
+                        </li>
+                                  <li class="menu-item">
+                            <a href="/minors" data-drupal-link-system-path="node/191">Minors</a>
+                        </li>
+                                  <li class="menu-item">
+                            <a href="/undergraduate/changing-majors-double-majors" data-drupal-link-system-path="node/196">Changing Majors and Double Majors</a>
+                        </li>
+        </ul>
+  
+              </li>
+                                                <li class="menu-item menu-item--expanded">
+                  <div class="submenu-toggle__wrapper ">
+            <a href="/undergraduate/abet" data-drupal-link-system-path="node/2996">          ABET Accreditation<span class="primary-nav__submenu-indicator"></span>
+        </a>
+            <button class="submenu-toggle" aria-label="Toggle Submenu"><span class="submenu-toggle__icon"></span></button>
+          </div>
+                        <ul class="menu">
+                                      <li class="menu-item">
+                            <a href="/undergraduate/abet-computer-science-engineering" data-drupal-link-system-path="node/221">Computer Science and Engineering (BS)</a>
+                        </li>
+                                  <li class="menu-item">
+                            <a href="/undergraduate/abet-computer-science" data-drupal-link-system-path="node/2991">Computer Science (BS)</a>
+                        </li>
+        </ul>
+  
+              </li>
+        </ul>
+  
+              </li>
+                                                <li class="menu-item menu-item--expanded">
+                  <div class="submenu-toggle__wrapper primary-nav__top-link">
+            <a href="/graduate" data-drupal-link-system-path="node/16">          Graduate<span class="primary-nav__submenu-indicator"></span>
+        </a>
+            <button class="submenu-toggle" aria-label="Toggle Submenu"><span class="submenu-toggle__icon"></span></button>
+          </div>
+                        <ul class="menu">
+                                                    <li class="menu-item menu-item--expanded">
+                  <div class="submenu-toggle__wrapper ">
+            <a href="/graduate/our-programs" title="Degree Programs" data-drupal-link-system-path="node/101">          Degree Programs<span class="primary-nav__submenu-indicator"></span>
+        </a>
+            <button class="submenu-toggle" aria-label="Toggle Submenu"><span class="submenu-toggle__icon"></span></button>
+          </div>
+                        <ul class="menu">
+                                      <li class="menu-item">
+                            <a href="/graduate/our-programs/ms-degree" title="M.S. Degree" data-drupal-link-system-path="node/131">M.S. Degree</a>
+                        </li>
+                                  <li class="menu-item">
+                            <a href="/graduate/our-programs/phd-degree" title="Ph.D. Degree" data-drupal-link-system-path="node/136">Ph.D. Degree</a>
+                        </li>
+        </ul>
+  
+              </li>
+                                  <li class="menu-item">
+                            <a href="/graduate/new-students" title="Newly Admitted Students" data-drupal-link-system-path="node/61">Newly Admitted Students</a>
+                        </li>
+                                                <li class="menu-item menu-item--expanded">
+                  <div class="submenu-toggle__wrapper ">
+            <a href="/graduate/current-students" title="Current Students" data-drupal-link-system-path="node/56">          Current Students<span class="primary-nav__submenu-indicator"></span>
+        </a>
+            <button class="submenu-toggle" aria-label="Toggle Submenu"><span class="submenu-toggle__icon"></span></button>
+          </div>
+                        <ul class="menu">
+                                      <li class="menu-item">
+                            <a href="https://cs.ucdavis.edu/graduate/our-programs">Degree Requirements</a>
+                        </li>
+                                  <li class="menu-item">
+                            <a href="/graduate/current-students/resources" title="Resources" data-drupal-link-system-path="node/116">Resources</a>
+                        </li>
+                                  <li class="menu-item">
+                            <a href="https://cs.ucdavis.edu/schedules-classes" title="Course Descriptions">Course Descriptions</a>
+                        </li>
+                                  <li class="menu-item">
+                            <a href="/graduate/current-students/available-research-projects" title="Available Research Projects" data-drupal-link-system-path="node/2381">Available Research Projects</a>
+                        </li>
+                                  <li class="menu-item">
+                            <a href="/graduate/current-students/faqs-current-grads" title="Frequently Asked Questions" data-drupal-link-system-path="node/106">Frequently Asked Questions</a>
+                        </li>
+        </ul>
+  
+              </li>
+                                  <li class="menu-item">
+                            <a href="/graduate/non-majors" title="Non-Majors" data-drupal-link-system-path="node/2501">Non-Majors</a>
+                        </li>
+                                  <li class="menu-item">
+                            <a href="/graduate/policies" title="Policies" data-drupal-link-system-path="node/2496">Policies</a>
+                        </li>
+                                                <li class="menu-item menu-item--expanded">
+                  <div class="submenu-toggle__wrapper ">
+            <a href="/graduate/graduate-group" title="Graduate Group" data-drupal-link-system-path="node/66">          Graduate Group<span class="primary-nav__submenu-indicator"></span>
+        </a>
+            <button class="submenu-toggle" aria-label="Toggle Submenu"><span class="submenu-toggle__icon"></span></button>
+          </div>
+                        <ul class="menu">
+                                      <li class="menu-item">
+                            <a href="/graduate/graduate-group/graduate-advising" title="Graduate Advising" data-drupal-link-system-path="node/111">Graduate Advising</a>
+                        </li>
+                                  <li class="menu-item">
+                            <a href="/graduate/graduate-group/forums-and-events" title="Forums and Events" data-drupal-link-system-path="node/126">Forums and Events</a>
+                        </li>
+                                  <li class="menu-item">
+                            <a href="/graduate/graduate-group/administration" title="Administration" data-drupal-link-system-path="node/71">Administration</a>
+                        </li>
+                                  <li class="menu-item">
+                            <a href="/graduate/graduate-group/bylaws" title="Bylaws" data-drupal-link-system-path="node/76">Bylaws</a>
+                        </li>
+                                  <li class="menu-item">
+                            <a href="/graduate/graduate-group/diversity" title="Diversity" data-drupal-link-system-path="node/81">Diversity</a>
+                        </li>
+        </ul>
+  
+              </li>
+        </ul>
+  
+              </li>
+                                                <li class="menu-item menu-item--expanded">
+                  <div class="submenu-toggle__wrapper primary-nav__top-link">
+            <a href="/faculty-research" data-drupal-link-system-path="node/21">          Faculty &amp; Research<span class="primary-nav__submenu-indicator"></span>
+        </a>
+            <button class="submenu-toggle" aria-label="Toggle Submenu"><span class="submenu-toggle__icon"></span></button>
+          </div>
+                        <ul class="menu">
+                                      <li class="menu-item">
+                            <a href="/directory" data-drupal-link-system-path="directory">Directory</a>
+                        </li>
+                                  <li class="menu-item">
+                            <a href="/faculty-research/artificial-intelligence-and-machine-learning" data-drupal-link-system-path="node/266">Artificial Intelligence &amp; Machine Learning</a>
+                        </li>
+                                                <li class="menu-item menu-item--expanded">
+                  <div class="submenu-toggle__wrapper ">
+            <a href="/faculty-research/graphics-visualization-human-computer-interaction" data-drupal-link-system-path="node/271">          Graphics, Visualization, and Human-Computer Interaction<span class="primary-nav__submenu-indicator"></span>
+        </a>
+            <button class="submenu-toggle" aria-label="Toggle Submenu"><span class="submenu-toggle__icon"></span></button>
+          </div>
+                        <ul class="menu">
+                                      <li class="menu-item">
+                            <a href="/faculty-research/human-computer-interaction" data-drupal-link-system-path="node/1201">Human-Computer Interaction</a>
+                        </li>
+                                  <li class="menu-item">
+                            <a href="/faculty-research/society-technology" data-drupal-link-system-path="node/316">Society and Technology</a>
+                        </li>
+        </ul>
+  
+              </li>
+                                                <li class="menu-item menu-item--expanded">
+                  <div class="submenu-toggle__wrapper ">
+            <a href="/faculty-research/interdisciplinary-topics" data-drupal-link-system-path="node/276">          Interdisciplinary Topics<span class="primary-nav__submenu-indicator"></span>
+        </a>
+            <button class="submenu-toggle" aria-label="Toggle Submenu"><span class="submenu-toggle__icon"></span></button>
+          </div>
+                        <ul class="menu">
+                                      <li class="menu-item">
+                            <a href="/faculty-research/education" data-drupal-link-system-path="node/426">Education</a>
+                        </li>
+                                  <li class="menu-item">
+                            <a href="/faculty-research/molecular-computing" data-drupal-link-system-path="node/431">Molecular Computing</a>
+                        </li>
+                                  <li class="menu-item">
+                            <a href="/faculty-research/nanotechnology" data-drupal-link-system-path="node/436">Nanotechnology</a>
+                        </li>
+                                  <li class="menu-item">
+                            <a href="/faculty-research/society-technology" data-drupal-link-system-path="node/316">Society and Technology</a>
+                        </li>
+        </ul>
+  
+              </li>
+                                                <li class="menu-item menu-item--expanded">
+                  <div class="submenu-toggle__wrapper ">
+            <a href="/faculty-research/software" data-drupal-link-system-path="node/281">          Software<span class="primary-nav__submenu-indicator"></span>
+        </a>
+            <button class="submenu-toggle" aria-label="Toggle Submenu"><span class="submenu-toggle__icon"></span></button>
+          </div>
+                        <ul class="menu">
+                                      <li class="menu-item">
+                            <a href="/faculty-research/programming-languages" data-drupal-link-system-path="node/451">Programming Languages</a>
+                        </li>
+                                  <li class="menu-item">
+                            <a href="/faculty-research/security" data-drupal-link-system-path="node/456">Security</a>
+                        </li>
+                                  <li class="menu-item">
+                            <a href="/faculty-research/software-engineering" data-drupal-link-system-path="node/461">Software Engineering</a>
+                        </li>
+        </ul>
+  
+              </li>
+                                                <li class="menu-item menu-item--expanded">
+                  <div class="submenu-toggle__wrapper ">
+            <a href="/faculty-research/systems" data-drupal-link-system-path="node/286">          Systems<span class="primary-nav__submenu-indicator"></span>
+        </a>
+            <button class="submenu-toggle" aria-label="Toggle Submenu"><span class="submenu-toggle__icon"></span></button>
+          </div>
+                        <ul class="menu">
+                                      <li class="menu-item">
+                            <a href="/faculty-research/architecture" data-drupal-link-system-path="node/466">Architecture</a>
+                        </li>
+                                  <li class="menu-item">
+                            <a href="/faculty-research/computer-networks" data-drupal-link-system-path="node/476">Computer Networks</a>
+                        </li>
+                                  <li class="menu-item">
+                            <a href="/faculty-research/database-systems" data-drupal-link-system-path="node/471">Database Systems</a>
+                        </li>
+                                  <li class="menu-item">
+                            <a href="/faculty-research/security" data-drupal-link-system-path="node/456">Security</a>
+                        </li>
+        </ul>
+  
+              </li>
+                                                <li class="menu-item menu-item--expanded">
+                  <div class="submenu-toggle__wrapper ">
+            <a href="/faculty-research/theory-algorithms" data-drupal-link-system-path="node/291">          Theory and Algorithms<span class="primary-nav__submenu-indicator"></span>
+        </a>
+            <button class="submenu-toggle" aria-label="Toggle Submenu"><span class="submenu-toggle__icon"></span></button>
+          </div>
+                        <ul class="menu">
+                                      <li class="menu-item">
+                            <a href="/faculty-research/cryptography" data-drupal-link-system-path="node/496">Cryptography</a>
+                        </li>
+                                  <li class="menu-item">
+                            <a href="/faculty-research/theory-computing" data-drupal-link-system-path="node/1211">Theory of Computing</a>
+                        </li>
+        </ul>
+  
+              </li>
+        </ul>
+  
+              </li>
+                                  <li class="menu-item">
+                              <div class="primary-nav__top-link">
+                    <a href="/news" data-drupal-link-system-path="news">News</a>
+                      </div>
+                        </li>
+                                  <li class="menu-item">
+                              <div class="primary-nav__top-link">
+                    <a href="/alumni" data-drupal-link-system-path="node/2906">Alumni</a>
+                      </div>
+                        </li>
+                                  <li class="menu-item">
+                              <div class="primary-nav__top-link">
+                    <a href="https://give.ucdavis.edu/2423">Give</a>
+                      </div>
+                        </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+
+      </header>
+  
+  <main class="l-main">
+    <a id="main-content" tabindex="-1"></a>    
+      <div class="region region-pre-title">
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+<div id="block-sf-default-front-hb-welcome-sitefarm" class="hero-banner--darken hero-banner block block-block-content block-block-contentdc6275a5-25cc-49b5-ac8d-d51d824a84a8">
+    
+    
+      <div class="hero-banner__image">
+          
+            <div class="field field--name-field-sf-m-block-primary-img field--type-entity-reference field--label-hidden field__item">  <img loading="lazy" src="/sites/g/files/dgvnsk8441/files/styles/sf_hero_banner/public/media/images/Main%20image%20%283%29.jpg?h=d1efd5f6&amp;itok=WLzGlnpe" width="2000" height="770" alt="Blue and red satelite imaging" class="image-style-sf-hero-banner" />
+
+
+</div>
+      
+      </div>
+
+  <div class="hero-banner__body">
+          <div class="hero-banner__title">Visualizing and Communicating Ambiguity for High-Stakes Collaboration</div>
+    
+          <div class="hero-banner__summary">
+        <p>Researchers investigate how AI and machine learning can help in team-based decision-making scenarios like wildfire management</p>
+      </div>
+    
+    <div class="hero-banner__button-group">
+                    <a href="https://cs.ucdavis.edu/news/visualizing-and-communicating-ambiguity-high-stakes-collaboration" class="hero-banner__button">Read More</a>
+          </div>
+  </div>
+
+  
+  
+
+</div>
+
+  </div>
+
+
+    
+
+          
+    
+    <div class="l-container u-space-mt--large">
+      
+
+      
+              <aside class="l-quad     u-clearfix u-clear">
+            <div class="l-quad__region region region-top-content-first">
+    
+<div id="block-mhundergraduateadvising" class="category-brand--secondary block block-block-content block-block-content94325a0a-394f-4ebd-9979-2827e9df335c panel o-box">
+    
+    
+      <a href="/undergraduate" class="marketing-highlight ">
+    <div class="marketing-highlight__image">
+      
+            <div class="field field--name-field-sf-m-block-primary-img field--type-entity-reference field--label-hidden field__item">  <img loading="lazy" src="/sites/g/files/dgvnsk8441/files/styles/sf_landscape_4x3/public/images/marketing_highlight/cs_picnicday_small.jpg?h=be4ad616&amp;itok=YRZjowqF" width="640" height="480" alt="Undergraduate Experience" class="image-style-sf-landscape-4x3" />
+
+
+</div>
+      
+          </div>
+    <div class="marketing-highlight__body">
+      <h3 class="marketing-highlight__title">Undergraduate Experience</h3>
+              <p>Unique opportunities for prospective and current CS undergraduates.</p>
+                    <span class="marketing-highlight__cta">Learn more</span>
+          </div>
+  </a>
+  
+</div>
+
+  </div>
+
+            <div class="l-quad__region region region-top-content-second">
+    
+<div id="block-mhmastersprograms" class="category-brand--secondary block block-block-content block-block-content4e12a293-c8d1-47f2-b6e9-5d9645eb34ea panel o-box">
+    
+    
+      <a href="/graduate" class="marketing-highlight ">
+    <div class="marketing-highlight__image">
+      
+            <div class="field field--name-field-sf-m-block-primary-img field--type-entity-reference field--label-hidden field__item">  <img loading="lazy" src="/sites/g/files/dgvnsk8441/files/styles/sf_landscape_4x3/public/images/marketing_highlight/grad_cs.jpg?h=cdf4c48f&amp;itok=6dya3i4e" width="640" height="480" alt="Graduate Group" class="image-style-sf-landscape-4x3" />
+
+
+</div>
+      
+          </div>
+    <div class="marketing-highlight__body">
+      <h3 class="marketing-highlight__title">Graduate Group</h3>
+              <p>Our M.S. and Ph.D. programs expand your Computer Science skills and knowledge.</p>
+                    <span class="marketing-highlight__cta">Learn More</span>
+          </div>
+  </a>
+  
+</div>
+
+  </div>
+
+            <div class="l-quad__region region region-top-content-third">
+    
+<div id="block-mhdepartmentspotlight" class="category-brand--secondary block block-block-content block-block-content21b8d049-65a5-4f71-aea4-7f4786931645 panel o-box">
+    
+    
+      <a href="/about/alumni" class="marketing-highlight ">
+    <div class="marketing-highlight__image">
+      
+            <div class="field field--name-field-sf-m-block-primary-img field--type-entity-reference field--label-hidden field__item">  <img loading="lazy" src="/sites/g/files/dgvnsk8441/files/styles/sf_landscape_4x3/public/images/marketing_highlight/cs_banner_alumni.jpg?h=53777dbd&amp;itok=Gq6oV8He" width="640" height="480" alt="Alumni" class="image-style-sf-landscape-4x3" />
+
+
+</div>
+      
+          </div>
+    <div class="marketing-highlight__body">
+      <h3 class="marketing-highlight__title">Computer Science Alumni</h3>
+              <p>Our Computer Science alumni make a difference for people, industries and communities.</p>
+                    <span class="marketing-highlight__cta">Read More</span>
+          </div>
+  </a>
+  
+</div>
+
+  </div>
+
+            <div class="l-quad__region region region-top-content-fourth">
+    
+<div id="block-mhresearch" class="category-brand--secondary block block-block-content block-block-content794f83c9-26ee-418e-8428-a591f1b283e0 panel o-box">
+    
+    
+      <a href="/faculty-research" class="marketing-highlight ">
+    <div class="marketing-highlight__image">
+      
+            <div class="field field--name-field-sf-m-block-primary-img field--type-entity-reference field--label-hidden field__item">  <img loading="lazy" src="/sites/g/files/dgvnsk8441/files/styles/sf_landscape_4x3/public/images/marketing_highlight/cs_faculty_neff_amenta.jpg?h=33bd1025&amp;itok=byVDszBe" width="640" height="480" alt="Research" class="image-style-sf-landscape-4x3" />
+
+
+</div>
+      
+          </div>
+    <div class="marketing-highlight__body">
+      <h3 class="marketing-highlight__title">Outstanding Research</h3>
+              <p>Our renowned faculty perform a wide range of cutting-edge Computer Science research.</p>
+                    <span class="marketing-highlight__cta">Learn more</span>
+          </div>
+  </a>
+  
+</div>
+
+  </div>
+
+        </aside>
+          </div>
+
+    <div class="l-container">
+      <section class="    ">
+                  
+          <div class="l-content">
+              <div class="region region-content">
+    
+<div id="block-sitefarm-one-content" class="panel--nested block block-system block-system-main-block">
+    
+    
+        <div class="views-element-container"><div class="view view-sf-frontpage view-id-sf_frontpage view-display-id-page_1 js-view-dom-id-e6ce86bb48cf4d1430a4990b4cc07ba4d15c932466402351bf648326801985cd">
+  
+    
+      
+  
+      
+          </div>
+</div>
+
+  </div>
+
+  </div>
+
+          </div>
+                        </section>
+    </div>
+
+    <div class="l-container">
+              <aside class=" l-quad--third    u-clearfix u-clear">
+            <div class="l-quad__region region region-bottom-content-first">
+    
+<div id="block-upcomingevents" class="block block-block-content block-block-contentd7f30df6-425b-4ead-91d3-482bdd3d5f23 panel o-box">
+      
+          <h2 class="panel__title">
+                Upcoming Events
+      </h2>
+        
+          
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><a href="https://engineering.ucdavis.edu/events/701">
+<div class="media media--type-sf-image-media-type media--view-mode-default">
+  
+          <img loading="lazy" src="/sites/g/files/dgvnsk8441/files/media/images/CS.png" width="1200" height="500" alt="Attend a Computer Science Event">
+
+
+
+  </div>
+
+</a></div>
+      
+      </div>
+
+  </div>
+
+            <div class="l-quad__region region region-bottom-content-second">
+    
+<div class="views-element-container block block-views block-views-blocksf-articles-recent-block-1 panel o-box" id="block-sf-default-front-articles-recent">
+    
+      <h2 class="panel__title">
+            Recent Articles
+    </h2>
+    
+        <div><div class="view view-sf-articles-recent view-id-sf_articles_recent view-display-id-block_1 js-view-dom-id-d86691db596254c162aabf40bc7850854bac53a57d0847251412ed11eb4b1c97">
+  
+    
+      
+      <div class="view-content">
+                <article class="vm-listing category-brand--primary">
+      <div class="vm-listing__figure">
+          
+            <div class="field field--name-field-sf-m-primary-media field--type-entity-reference field--label-hidden field__item">  <a href="/news/sailing-across-stemseas" hreflang="en"><img loading="lazy" src="/sites/g/files/dgvnsk8441/files/styles/sf_thumbnail/public/media/images/Sikuliaq_bow%20%5BLead%20Image%5D.JPG?h=5c216954&amp;itok=sNhJtD4S" width="135" height="135" alt="A sunset view from a boat" class="image-style-sf-thumbnail" />
+
+</a>
+</div>
+      
+        </div>
+    <div class="vm-listing__body">
+    <h3 class="vm-listing__title"><a href="/news/sailing-across-stemseas" rel="bookmark">Sailing Across STEMSEAS</a></h3>
+          <footer class="vm-listing__submitted">
+        <span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-05-09T09:28:27-07:00" title="Friday, May 9, 2025 - 9:28am" class="datetime">May 09, 2025</time>
+</span>
+
+        
+      </footer>
+        
+  </div>
+
+</article>
+          <article class="vm-listing category-brand--primary">
+      <div class="vm-listing__figure">
+          
+            <div class="field field--name-field-sf-m-primary-media field--type-entity-reference field--label-hidden field__item">  <a href="/news/rawan-dirhalleh-measures-mental-health-engineering-undergraduates" hreflang="en"><img loading="lazy" src="/sites/g/files/dgvnsk8441/files/styles/sf_thumbnail/public/media/images/Main%20photo-min.jpg?h=ec1c856c&amp;itok=UIW5TIyC" width="135" height="135" alt="Portrait of Rawan Dirhalleh" class="image-style-sf-thumbnail" />
+
+</a>
+</div>
+      
+        </div>
+    <div class="vm-listing__body">
+    <h3 class="vm-listing__title"><a href="/news/rawan-dirhalleh-measures-mental-health-engineering-undergraduates" rel="bookmark">Rawan Dirhalleh Measures Mental Health in Engineering Undergraduates</a></h3>
+          <footer class="vm-listing__submitted">
+        <span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-04-09T08:50:26-07:00" title="Wednesday, April 9, 2025 - 8:50am" class="datetime">April 09, 2025</time>
+</span>
+
+        
+      </footer>
+        
+  </div>
+
+</article>
+          <article class="vm-listing category-brand--primary">
+      <div class="vm-listing__figure">
+          
+            <div class="field field--name-field-sf-m-primary-media field--type-entity-reference field--label-hidden field__item">  <a href="/news/sam-king-appointed-new-director-citris-uc-davis" hreflang="en"><img loading="lazy" src="/sites/g/files/dgvnsk8441/files/styles/sf_thumbnail/public/media/images/BeaGle-16%20resize.jpg?h=d62f7d6d&amp;itok=_Uj9Ubi5" width="135" height="135" alt="Associate Professor of Computer Science Sam King wearing a black polo shirt in front of a natural background" class="image-style-sf-thumbnail" />
+
+</a>
+</div>
+      
+        </div>
+    <div class="vm-listing__body">
+    <h3 class="vm-listing__title"><a href="/news/sam-king-appointed-new-director-citris-uc-davis" rel="bookmark">Sam King Appointed New Director of CITRIS at UC Davis </a></h3>
+          <footer class="vm-listing__submitted">
+        <span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-04-04T11:48:38-07:00" title="Friday, April 4, 2025 - 11:48am" class="datetime">April 04, 2025</time>
+</span>
+
+        
+      </footer>
+        
+  </div>
+
+</article>
+          <article class="vm-listing category-brand--primary">
+      <div class="vm-listing__figure">
+          
+            <div class="field field--name-field-sf-m-primary-media field--type-entity-reference field--label-hidden field__item">  <a href="/news/aaas-elects-raissa-dsouza-fellow" hreflang="en"><img loading="lazy" src="/sites/g/files/dgvnsk8441/files/styles/sf_thumbnail/public/media/images/Raissa%20portrait.jpg?h=cd5ab84c&amp;itok=0IDwxmfI" width="135" height="135" alt="Raissa M. D&#039;Souza, associate dean of research for the UC Davis College of Engineering wearing a pink vest and standing with her arms crossed" class="image-style-sf-thumbnail" />
+
+</a>
+</div>
+      
+        </div>
+    <div class="vm-listing__body">
+    <h3 class="vm-listing__title"><a href="/news/aaas-elects-raissa-dsouza-fellow" rel="bookmark">AAAS Elects Raissa D’Souza as Fellow </a></h3>
+          <footer class="vm-listing__submitted">
+        <span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-03-26T14:48:25-07:00" title="Wednesday, March 26, 2025 - 2:48pm" class="datetime">March 26, 2025</time>
+</span>
+
+        
+      </footer>
+        
+  </div>
+
+</article>
+          <article class="vm-listing category-brand--primary">
+      <div class="vm-listing__figure">
+          
+            <div class="field field--name-field-sf-m-primary-media field--type-entity-reference field--label-hidden field__item">  <a href="/news/uc-davis-researchers-join-internet-society-fellowship" hreflang="en"><img loading="lazy" src="/sites/g/files/dgvnsk8441/files/styles/sf_thumbnail/public/media/images/Pulse%20Research%202.png?h=c673cd1c&amp;itok=n3Mc13tv" width="135" height="135" alt="Alexander Gamero-Garrido wears a brown sport coat and stands in front of a natural background; Nishant Acharya wears a UC Davis three-quarter zip sweatshirt that says &quot;UC Davis Computer Engineering in gold and white lettering.&quot; " class="image-style-sf-thumbnail" />
+
+</a>
+</div>
+      
+        </div>
+    <div class="vm-listing__body">
+    <h3 class="vm-listing__title"><a href="/news/uc-davis-researchers-join-internet-society-fellowship" rel="bookmark">UC Davis Researchers Join Internet Society Fellowship </a></h3>
+          <footer class="vm-listing__submitted">
+        <span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-03-20T09:00:00-07:00" title="Thursday, March 20, 2025 - 9:00am" class="datetime">March 20, 2025</time>
+</span>
+
+        
+      </footer>
+        
+  </div>
+
+</article>
+  
+    </div>
+  
+              <div class="feed-icons">
+      <a href="https://cs.ucdavis.edu/articles.rss" class="feed-icon">
+  Subscribe to Recent Articles
+</a>
+
+    </div>
+  </div>
+</div>
+
+  </div>
+
+  </div>
+
+            <div class="l-quad__region region region-bottom-content-third">
+    
+<div id="block-stayconnected" class="block block-block-content block-block-contente1d6d843-335a-4649-bbb8-167e44204ee2 panel o-box">
+      
+          <h2 class="panel__title">
+                Stay Connected
+      </h2>
+        
+          
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><a class="btn--alt" href="https://www.facebook.com/UCDavisEngineering">Facebook</a></p>
+
+<p><a class="btn--alt" href="https://www.instagram.com/ucdavisengineering/">Instagram</a></p>
+
+<p><a class="btn--alt" href="https://twitter.com/UCDavisCoE">Twitter (X)</a></p>
+
+<p><a class="btn--alt" href="https://www.linkedin.com/showcase/18863724/admin/feed/posts/">LinkedIn</a></p>
+
+<p><a class="btn--alt" href="https://www.youtube.com/user/UCDavisEngineering">YouTube</a></p></div>
+      
+      </div>
+
+  </div>
+
+          
+        </aside>
+          </div>
+
+      </main>
+
+    <footer class="l-footer footer dark-background">
+        <div class="l-container">
+        <div class="region region-footer flex-footer">
+                  <div class="flex-footer__item">
+          
+<div id="block-coelogoforfooter" class="block block-block-content block-block-contentba9197b2-2d35-4d99-9bb5-35bd735d17f6">
+      
+        
+          
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><a href="https://engineering.ucdavis.edu/">
+<div class="media media--type-sf-image-media-type media--view-mode-default">
+  
+          <img loading="lazy" src="/sites/g/files/dgvnsk8441/files/media/images/COE_logo_footer.png" width="500" height="82" alt="College of Engineering logo">
+
+
+
+  </div>
+
+</a></div>
+      
+      </div>
+
+        </div>
+              <div class="flex-footer__item">
+          
+<div id="block-socialmedialinks-2" class="block-social-media-links panel--transparent panel--auxilary block block-social-media-links-block">
+    
+    
+      <div class="social-follow">
+    
+
+<ul class="social-media-links--platforms platforms inline horizontal">
+      <li>
+      <a class="social-media-link-icon--facebook" href="https://www.facebook.com/UCDavisEngineering"  >
+        <span class='fab fa-facebook fa-2x'></span>
+      </a>
+
+          </li>
+      <li>
+      <a class="social-media-link-icon--instagram" href="https://www.instagram.com/ucdavisengineering/"  >
+        <span class='fab fa-instagram fa-2x'></span>
+      </a>
+
+          </li>
+      <li>
+      <a class="social-media-link-icon--twitter" href="https://x.com/UCDavisCoE"  >
+        <span class='fab fa-x-twitter fa-2x'></span>
+      </a>
+
+          </li>
+      <li>
+      <a class="social-media-link-icon--linkedin" href="https://www.linkedin.com/showcase/uc-davis-college-of-engineering/"  >
+        <span class='fab fa-linkedin fa-2x'></span>
+      </a>
+
+          </li>
+      <li>
+      <a class="social-media-link-icon--youtube" href="https://www.youtube.com/user/UCDavisEngineering"  >
+        <span class='fab fa-youtube fa-2x'></span>
+      </a>
+
+          </li>
+      <li>
+      <a class="social-media-link-icon--flickr" href="https://www.flickr.com/photos/ucdaviscoe/albums"  >
+        <span class='fab fa-flickr fa-2x'></span>
+      </a>
+
+          </li>
+  </ul>
+
+  </div>
+</div>
+
+        </div>
+            </div>
+
+
+      <div class="footer-spacer">
+        <div class="footer-spacer__logo">
+          <a href="https://www.ucdavis.edu/"><img src="/profiles/sitefarm/themes/sitefarm_one/images/aggie-logo-white.svg" class="ucd-logo" alt="UC Davis footer logo" width="180" height="140" loading="lazy" /></a>
+        </div>
+      </div>
+
+        <div class="region region-footer-credits">
+    
+<div id="block-sitefarm-one-uccredits" class="uc-footer block block-uc-credits block-uc-credits-block">
+    
+    
+        
+      <p><a href="https://www.ucdavis.edu/">University of California, Davis</a>, One Shields Avenue, Davis, CA 95616 | 530-752-1011</p>
+    <ul class="list--pipe">
+        <li><a href="/contact">Questions or comments?</a></li>    <li><a href="http://ucdavis.edu/help/privacy-accessibility.html">Privacy & Accessibility</a></li>    <li><a href="https://diversity.ucdavis.edu/principles-community">Principles of Community</a></li>    <li><a href="http://www.universityofcalifornia.edu/">University of California</a></li>    <li><a href="/sitemap">Sitemap</a></li>    <li>Last update: April 22, 2025</li>  </ul>
+  <p>Copyright © The Regents of the University of California, Davis campus. All rights reserved.</p>
+</div>
+
+<div id="block-colophon" class="block block-block-content block-block-content778e239d-7dd1-485f-bc87-754c22b34566">
+      
+        
+          
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p class="text-align-center"><a href="/colophon">Colophon</a></p></div>
+      
+      </div>
+
+  </div>
+
+
+      <div class="u-align--center">This site is officially grown in <a href="https://sitefarm.ucdavis.edu">SiteFarm</a>.</div>
+
+    </div>
+      </footer>
+  
+</div>
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"google_analytics":{"account":"UA-38805315-11","trackOutbound":true,"trackMailto":true,"trackTel":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":1},"ajaxTrustedUrl":{"\/search\/node":true},"user":{"uid":0,"permissionsHash":"8d1568097880cae907aca2b44893c26081d7c8d455ab0bd7ef56fa70a88fbd6f"}}</script>
+<script src="/sites/g/files/dgvnsk8441/files/js/js_iLXBZN3cvoYXzcY6Bcy5gHlx1IwmTw1iN8na9Gi3pjY.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=sitefarm_one&amp;include=eJxLz89Pz0mNT8xLzKksyUwu1k9HE9ApzixJTUssyo3Pz0vVR-boFRRl5iYWVcbnJZYBAAdKHKE"></script>
+<script src="/profiles/sitefarm/themes/sitefarm_one/dist/primary-nav.js?sv4zl4" type="module"></script>
+
+  </body>
+</html>

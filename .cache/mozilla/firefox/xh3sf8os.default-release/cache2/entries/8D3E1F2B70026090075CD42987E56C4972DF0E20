@@ -1,0 +1,435 @@
+/**
+ * Wizixo - Multipurpose Corporate Theme
+ *
+ * @author Webestica (https://www.webestica.com/)
+ * @version 1.2.0
+ */
+
+/* ===================
+    Table Of Content
+======================
+01 PRELOADER
+02 COUNTER
+03 PORTFOLIO ISOTOPE
+04 WOW
+05 OWL CAROUSEL
+06 SWIPER SLIDER
+07 BACK TO TOP
+08 STICKY BAR
+09 STICKY HEADER
+10 FIT VIDEO
+11 PARALLAX
+12 WAVE
+13 CONTACT FORM
+14 IE DETECTION
+15 MEGA MENU
+
+======================*/
+(function ($) {
+"use strict";
+
+
+    // BEGIN: 01 Preloader
+    var preLoader = function() {
+        if($('.preloader').length){
+            var $preloader = $('.preloader');
+            $preloader.delay(200).fadeOut(600);
+        }
+    };
+    // END: Preloader
+
+    // BEGIN: 02 Counter
+    var CountTo = function () {
+        var initInstances = function () {
+          var $count = $('.counter-item-digit');
+          if($count.length) {
+            $count.appear(function (direction) {
+                $(this).countTo();
+            }, {
+                offset: '100%',
+                triggerOnce: true
+            });
+          }
+        };
+
+        return {
+            init: function () {
+                initInstances();
+            }
+        };
+    }();
+    // END: Counter
+
+    // BEGIN: 03 Portfolio Isotope
+    var portfolioIsotope = function() {
+        if ( $().isotope ) {
+            var $container = $('.portfolio-wrap');
+            $container.imagesLoaded(function(){
+                $container.isotope({
+                    itemSelector: '.isotope-item',
+                    transitionDuration: '0.5s',
+                });
+            });
+            $('.nav-tabs .nav-filter').on('click',function() {
+                var selector = $(this).attr('data-filter');
+                $('.nav-tabs .nav-filter').removeClass('active');
+                $(this).addClass('active');
+                $container.isotope({ filter: selector });
+                return false;
+            });
+        }
+    };
+    // END: Portfolio Isotope
+
+    // BEGIN: 04 Wow
+    var wow = function() {
+        if($('.wow').length){
+            wow = new WOW( {
+                mobile: true  // Turn on/off WOW.js on mobile devices.
+            }).init();
+        }
+    };
+    // END: Wow Js
+
+    // BEGIN: 05 Owl Carousel
+    var owlCarousel = function() {
+        var $carousel = $('.owl-carousel');
+        if( $carousel.length < 1 ){
+            return true;
+        }
+        $carousel.each( function(){
+            var slider = $(this);
+            var sliderArrow = slider.attr('data-arrow') == 'false' ? false : true; //option: true or false
+            var sliderDots = slider.attr('data-dots') == 'false' ? false :true; //option: true or false
+            var sliderAutoPlay = slider.attr('data-autoplay') ? slider.attr('data-autoplay') : false; //option: number in ms
+            var sliderAutoPlayTime = slider.attr('data-autoplay') ? Number(sliderAutoPlay) : 4000;
+            var sliderSpeed = slider.attr('data-speed') ? slider.attr('data-speed') : 800; //option: number in ms (Smart speed)
+            var sliderMargin = slider.attr('data-margin') ? slider.attr('data-margin') : 30; //option: number in px
+            var sliderLoop = slider.attr('data-loop') == 'false' ? false : true; //option: true or false
+            var sliderStart = slider.attr('data-start') ? slider.attr('data-start') : 0; //option: number
+            var sliderSlideBy = slider.attr('data-slideby') ? sliderSlideBy == 'page' ? 'page' : Number(slider.attr('data-slideby')) : Number(1); //option: number
+            var sliderHoverPause = slider.attr('data-pause') == 'false' ? false : true; //option: true or false
+            var sliderMerge = slider.attr('data-merge') == 'true' ? true : false; //option: number (use in slider items DIV)
+            var sliderDrag = slider.attr('data-drag') == 'false' ? false : true; //option: true or false
+            var sliderRewind = slider.attr('data-rewind') == 'true' ? true : false; //option: true or false
+            var sliderCenter = slider.attr('data-center') == 'true' ? true : false; //option: true or false
+            var sliderVideo = slider.attr('data-video') == 'true' ? true : false; //option: true or false
+            var sliderLazy = slider.attr('data-lazyload') == 'true' ? true : false; //option: true or false
+            var sliderRTL = slider.attr('data-rtl'); //option: true (false by default)
+            var sliderItems = slider.attr('data-items') ? slider.attr('data-items') : 4; //option: number (items in all device)
+            var sliderItemsXl = slider.attr('data-items-xl')? slider.attr('data-items-xl') : Number(sliderItems) ; //option: number (items in 1200 to end )
+            var sliderItemsLg = slider.attr('data-items-lg')? slider.attr('data-items-lg') : Number(sliderItemsXl) ; //option: number (items in 992 to 1199 )
+            var sliderItemsMd = slider.attr('data-items-md')? slider.attr('data-items-md') : Number(sliderItemsLg) ; //option: number (items in 768 to 991 )
+            var sliderItemsSm = slider.attr('data-items-sm')? slider.attr('data-items-sm') : Number(sliderItemsMd) ; //option: number (items in 576 to 767 )
+            var sliderItemsXs = slider.attr('data-items-xs') ? slider.attr('data-items-xs') : Number(sliderItemsSm) ; //option: number (items in start to 575 )
+            slider.owlCarousel({
+                margin: Number(sliderMargin),
+                loop: sliderLoop,
+                merge: sliderMerge,
+                mouseDrag: sliderDrag,
+                startPosition: Number(sliderStart),
+                rewind: sliderRewind,
+                slideBy: sliderSlideBy,
+                center: sliderCenter,
+                lazyLoad: sliderLazy,
+                nav: sliderArrow,
+                navText: [
+                            '<i class="ti-angle-left"></i>',
+                            '<i class="ti-angle-right"></i>'
+                ],
+                autoplay: sliderAutoPlay,
+                autoplayTimeout: sliderAutoPlayTime,
+                autoplayHoverPause: sliderHoverPause,
+                dots: sliderDots,
+                smartSpeed: Number(sliderSpeed),
+                video: sliderVideo,
+                rtl: sliderRTL,
+                responsive:{
+                   0:{ items:Number(sliderItemsXs) },
+                  576:{ items:Number(sliderItemsSm) },
+                  768:{ items:Number(sliderItemsMd) },
+                  992:{ items:Number(sliderItemsLg) },
+                  1200:{ items:Number(sliderItemsXl) }
+                },
+            });
+        });
+    };
+    // END: Owl Carousel
+
+    // BEGIN: 06 Swiper Slider
+    var swiperSlider = function() {
+        if($(".swiper-slider-fade").length !== 0) {
+            var swiper = new Swiper('.swiper-container', {
+                effect: 'fade', //other supported effects: coverflow, flip, cube, slide
+                pagination: null,
+                navigation: {
+                    nextEl: '.swiper-button-next',
+                    prevEl: '.swiper-button-prev',
+                },
+                nextButton: '.swiper-button-next',
+                prevButton: '.swiper-button-prev',
+                autoplay: 5000,
+                speed: 1000,
+                spaceBetween: 0,
+                loop: true,
+                simulateTouch: true,
+                onSlideChangeEnd: function(swiper) {
+                    $('.swiper-slide').each(function() {
+                        if ($(this).index() === swiper.activeIndex) {
+                            // Fadein in active slide
+                            $(this).find('.slider-content').fadeIn(25);
+                        } else {
+                            // Fadeout in inactive slides
+                            $(this).find('.slider-content').fadeOut(25);
+                        }
+                    });
+                }
+            });
+        }
+    };
+    // END: Swiper Slider
+
+    // BEGIN: 07 Back To top
+     var backTotop = function(){
+        var $backtotop = $('.back-top');
+        $(window).on('scroll', function() {
+            if ($(this).scrollTop() > 500) {
+                $backtotop.addClass('btn-show');
+            } else {
+                $backtotop.removeClass('btn-show');
+            }
+        });
+        $backtotop.on('click', function() {
+            $('html, body').animate({ scrollTop: 0}, 900, 'easeInOutCirc');
+            return false;
+        });
+    };
+    // END: Back To top
+
+    // BEGIN: 08 Sticky bar
+    var stickyBar = function() {
+
+        if($(".sticky-element").length) {
+          var $stickyElement = $(".sticky-element");
+          if ($(window).width() <= 1024) {
+              $stickyElement.trigger('sticky_kit:detach');
+          }
+          else {
+              $stickyElement.stick_in_parent({
+                  offset_top: 100
+              });
+          }
+        }
+    };
+    // END: Sticky bar
+
+    // BEGIN: Sticky Header
+    var stickyHeader = function() {
+        var sticky = $('.navbar-sticky'),
+        stickyStatic = $('.header-static');
+            $(window).scroll(function () {
+                var scTop = $(document).scrollTop();
+                if (scTop > 400) {
+                    if (!$(".sticky-space").length) {
+                        stickyStatic.after('<div class="sticky-space"></div>');
+                        $(".sticky-space").css({'height': sticky.height() + 'px'});
+                    }
+                    sticky.addClass('navbar-sticky-on');
+                } 
+                else {
+                    $(".sticky-space").remove();
+                    sticky.removeClass('navbar-sticky-on');
+            }
+        });
+    };
+    // END: Sticky Header
+
+    // BEGIN: 10 Fit Video
+    var fullWithvideo = function(){
+        // Target your .container, .wrapper, .post, etc.
+        if($(".fit-video").length){
+            var $fitvideo = $(".fit-video");
+            $fitvideo.fitVids();
+        }
+      };
+    // END: Fit Video
+
+    // BEGIN: 11 Parallax
+    var jarallax = function(){
+	    if($('.parallax-bg').length){
+	        $('.parallax-bg').jarallax({
+	            speed: 0.5
+	        });
+	    }
+    };
+    // END: Parallax
+
+    // BEGIN: 12 wave
+    var myWave  = function(){
+        if($('#wave-one').length){
+          var wave_one = $('#wave-one');
+          wave_one.wavify({
+                  height: 60,
+                  bones: 5,
+                  amplitude: 20,
+                  color: '#fff',
+                  speed: .15
+          });
+        }
+        if($('#wave-two').length){
+          var wave_two = $('#wave-two');
+          wave_two.wavify({
+                height: 40,
+                bones: 4,
+                amplitude: 20,
+                color: 'rgba(255, 255, 255, .8)',
+                speed: .25
+            });
+        }
+    };
+    // End: wave
+
+    // BEGIN: 13 Contact Form
+    var form = $('.contact-form');
+    var message = $('.contact-msg');
+    var form_data;
+    // Success function
+    function done_func(response) {
+        message.fadeIn().removeClass('alert-danger').addClass('alert-success');
+        message.text(response);
+        setTimeout(function () {
+            message.fadeOut();
+        }, 50000);
+        form.find('input:not([type="submit"]), textarea').val('');
+    }
+    // fail function
+    function fail_func(data) {
+            message.fadeIn().removeClass('alert-success').addClass('alert-danger');
+            message.text(data.responseText);
+            setTimeout(function () {
+                message.fadeOut();
+            }, 5000);
+        }
+    form.submit(function (e) {
+            e.preventDefault();
+            form_data = $(this).serialize();
+            $.ajax({
+                type: 'POST',
+                url: form.attr('action'),
+                data: form_data
+            })
+            .done(done_func)
+            .fail(fail_func);
+        });
+    // END: Contact Form
+
+    // BEGIN: 14 IE Detection
+    /**
+     * detect IE
+     * returns version of IE or false, if browser is not Internet Explorer
+     */
+    (function detectIE() {
+        var ua = window.navigator.userAgent;
+
+        var msie = ua.indexOf('MSIE ');
+        if (msie > 0) {
+            // IE 10 or older => return version number
+            var ieV = parseInt(ua.substring(msie + 5, ua.indexOf('.', msie)), 10);
+            document.querySelector('body').className += ' ie-browser';
+        }
+
+        var trident = ua.indexOf('Trident/');
+        if (trident > 0) {
+            // IE 11 => return version number
+            var rv = ua.indexOf('rv:');
+            var ieV = parseInt(ua.substring(rv + 3, ua.indexOf('.', rv)), 10);
+            document.querySelector('body').className += ' ie-browser';
+        }
+
+        var edge = ua.indexOf('Edge/');
+        if (edge > 0) {
+           // IE 12 (aka Edge) => return version number
+           var ieV = parseInt(ua.substring(edge + 5, ua.indexOf('.', edge)), 10);
+            document.querySelector('body').className += ' ie-browser';
+        }
+
+        // other browser
+        return false;
+    })();
+    // END: IE Detection
+
+    // BEGIN: 15 Mega Menu
+    $('.dropdown-menu a.dropdown-toggle').on('click', function(e) {
+        if (!$(this).next().hasClass('show')) {
+          $(this).parents('.dropdown-menu').first().find('.show').removeClass("show");
+        }
+        var $subMenu = $(this).next(".dropdown-menu");
+        $subMenu.toggleClass('show');
+
+        $(this).parents('li.nav-item.dropdown.show').on('hidden.bs.dropdown', function(e) {
+          $('.dropdown-submenu .show').removeClass("show");
+        });
+
+        return false;
+    });
+
+    // END: Mega Menu
+
+    // Initialze all functions
+
+    $(window).on('scroll', function (){
+      stickyBar();
+    }).on('load', function() {
+      preLoader();
+    });
+
+    //Document ready functions
+    $(document).ready(function () {
+          stickyHeader();
+          CountTo.init();
+          portfolioIsotope();
+          owlCarousel();
+          swiperSlider();
+          wow();
+          backTotop();
+          fullWithvideo();
+          jarallax();
+          myWave();
+    });
+
+})(jQuery);pÒÕ÷ﬁ      hy$hy$H*¯zËdù   E    :https://www.linuxmint.com/web/wizixo/template/assets/js/functions.js necko:classified 1 strongly-framed 1 security-info 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 request-method GET response-head HTTP/2.0 200 OK
+date: Thu, 08 May 2025 07:47:41 GMT
+content-type: text/javascript; charset=utf-8
+content-length: 14451
+x-sucuri-id: 19002
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+content-security-policy: upgrade-insecure-requests;
+content-disposition: inline; filename=functions.js
+last-modified: Wed, 09 Apr 2025 14:07:45 GMT
+cache-control: max-age=315360000
+etag: "1744207665.0-14451-63510619"
+server: Sucuri/Cloudproxy
+expires: Thu, 31 Dec 2037 23:55:55 GMT
+x-sucuri-cache: HIT
+alt-svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000
+X-Firefox-Spdy: h2
+ original-response-headers date: Thu, 08 May 2025 07:47:41 GMT
+content-type: text/javascript; charset=utf-8
+content-length: 14451
+x-sucuri-id: 19002
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+content-security-policy: upgrade-insecure-requests;
+content-disposition: inline; filename=functions.js
+last-modified: Wed, 09 Apr 2025 14:07:45 GMT
+cache-control: max-age=315360000
+etag: "1744207665.0-14451-63510619"
+server: Sucuri/Cloudproxy
+expires: Thu, 31 Dec 2037 23:55:55 GMT
+x-sucuri-cache: HIT
+alt-svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000
+X-Firefox-Spdy: h2
+ ctid 2 eTLD1Access 1;0;762433233, uncompressed-len 0 net-response-time-onstart 512 net-response-time-onstop 531   8s

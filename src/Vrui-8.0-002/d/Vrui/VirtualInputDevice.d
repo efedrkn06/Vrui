@@ -1,0 +1,35 @@
+$(OBJDIR)/Vrui/VirtualInputDevice.o $(OBJDIR)/pic/Vrui/VirtualInputDevice.o: Vrui/VirtualInputDevice.cpp \
+ /home/efe/src/Vrui-8.0-002/Math/Constants.h \
+ /home/efe/src/Vrui-8.0-002/Geometry/Point.h \
+ /home/efe/src/Vrui-8.0-002/Math/Math.h \
+ /home/efe/src/Vrui-8.0-002/Geometry/ComponentArray.h \
+ /home/efe/src/Vrui-8.0-002/Geometry/Vector.h \
+ /home/efe/src/Vrui-8.0-002/Geometry/Ray.h \
+ /home/efe/src/Vrui-8.0-002/Geometry/OrthogonalTransformation.h \
+ /home/efe/src/Vrui-8.0-002/Geometry/HVector.h \
+ /home/efe/src/Vrui-8.0-002/Geometry/Rotation.h \
+ /home/efe/src/Vrui-8.0-002/GL/GLMaterial.h \
+ /home/efe/src/Vrui-8.0-002/GL/GLColor.h \
+ /home/efe/src/Vrui-8.0-002/GL/GLScalarLimits.h \
+ /home/efe/src/Vrui-8.0-002/GL/GLMaterialEnums.h \
+ /home/efe/src/Vrui-8.0-002/Vrui/InputDevice.h \
+ /home/efe/src/Vrui-8.0-002/Misc/CallbackList.h \
+ /home/efe/src/Vrui-8.0-002/Misc/CallbackData.h \
+ /home/efe/src/Vrui-8.0-002/Geometry/OrthonormalTransformation.h \
+ /home/efe/src/Vrui-8.0-002/Geometry/Matrix.h \
+ /home/efe/src/Vrui-8.0-002/Vrui/Geometry.h \
+ /home/efe/src/Vrui-8.0-002/Vrui/Vrui.h \
+ /home/efe/src/Vrui-8.0-002/Vrui/VirtualInputDevice.h \
+ /home/efe/src/Vrui-8.0-002/Vrui/GlyphRenderer.h \
+ /home/efe/src/Vrui-8.0-002/GL/GLObject.h \
+ /home/efe/src/Vrui-8.0-002/GL/GLContextData.h \
+ /home/efe/src/Vrui-8.0-002/Misc/HashTable.h \
+ /home/efe/src/Vrui-8.0-002/Misc/PoolAllocator.h \
+ /home/efe/src/Vrui-8.0-002/Misc/StandardHashFunction.h \
+ /home/efe/src/Vrui-8.0-002/GL/TLSHelper.h \
+ /home/efe/src/Vrui-8.0-002/GL/Config.h \
+ /home/efe/src/Vrui-8.0-002/Images/RGBAImage.h \
+ /home/efe/src/Vrui-8.0-002/Images/Image.h \
+ /home/efe/src/Vrui-8.0-002/Images/BaseImage.h \
+ /home/efe/src/Vrui-8.0-002/Threads/Atomic.h \
+ /home/efe/src/Vrui-8.0-002/Threads/Config.h

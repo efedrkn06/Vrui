@@ -1,0 +1,33 @@
+$(OBJDIR)/GL/GLLineIlluminator.o $(OBJDIR)/pic/GL/GLLineIlluminator.o: GL/GLLineIlluminator.cpp \
+ /home/efe/src/Vrui-8.0-002/Math/Math.h \
+ /home/efe/src/Vrui-8.0-002/Geometry/HVector.h \
+ /home/efe/src/Vrui-8.0-002/Geometry/ComponentArray.h \
+ /home/efe/src/Vrui-8.0-002/Geometry/ComponentArray.icpp \
+ /home/efe/src/Vrui-8.0-002/Geometry/Vector.h \
+ /home/efe/src/Vrui-8.0-002/Geometry/Vector.icpp \
+ /home/efe/src/Vrui-8.0-002/Geometry/Point.h \
+ /home/efe/src/Vrui-8.0-002/Geometry/Point.icpp \
+ /home/efe/src/Vrui-8.0-002/Geometry/HVector.icpp \
+ /home/efe/src/Vrui-8.0-002/Geometry/Matrix.h \
+ /home/efe/src/Vrui-8.0-002/Geometry/Matrix.icpp \
+ /home/efe/src/Vrui-8.0-002/Geometry/MatrixHelperFunctions.h \
+ /home/efe/src/Vrui-8.0-002/Misc/Utility.h \
+ /home/efe/src/Vrui-8.0-002/GL/GLColorOperations.h \
+ /home/efe/src/Vrui-8.0-002/GL/GLColor.h \
+ /home/efe/src/Vrui-8.0-002/GL/GLScalarLimits.h \
+ /home/efe/src/Vrui-8.0-002/GL/GLGetTemplates.h \
+ /home/efe/src/Vrui-8.0-002/GL/GLGetLightTemplates.h \
+ /home/efe/src/Vrui-8.0-002/GL/GLVector.h \
+ /home/efe/src/Vrui-8.0-002/GL/GLLightEnums.h \
+ /home/efe/src/Vrui-8.0-002/GL/GLContextData.h \
+ /home/efe/src/Vrui-8.0-002/Misc/HashTable.h \
+ /home/efe/src/Vrui-8.0-002/Misc/PoolAllocator.h \
+ /home/efe/src/Vrui-8.0-002/Misc/StandardHashFunction.h \
+ /home/efe/src/Vrui-8.0-002/Misc/CallbackData.h \
+ /home/efe/src/Vrui-8.0-002/Misc/CallbackList.h \
+ /home/efe/src/Vrui-8.0-002/GL/TLSHelper.h \
+ /home/efe/src/Vrui-8.0-002/GL/Config.h \
+ /home/efe/src/Vrui-8.0-002/GL/GLObject.h \
+ /home/efe/src/Vrui-8.0-002/GL/GLLineIlluminator.h \
+ /home/efe/src/Vrui-8.0-002/GL/GLMaterial.h \
+ /home/efe/src/Vrui-8.0-002/GL/GLMaterialEnums.h
